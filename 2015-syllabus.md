@@ -52,7 +52,7 @@ Work-in-progress.
 Readings and guest speakers TBD.
 
 ### Weeks 1 + 2
-Education, What’s the point?
+Education: What’s the point?
 - Thomas Dewey: Democracy and Education
 - Tracking and Vocational Education
 
@@ -70,17 +70,17 @@ Does education need disruption?
 - Charter schools
 
 What do we mean by EdTech?
-Technology that educates?
-Technology for educators?
-Technology used by educational institutions?
-Technology for education administrators and policymakers?
-Technology for students?
+   * Technology that educates?
+   * Technology for educators?
+   * Technology used by educational institutions?
+   * Technology for education administrators and policymakers?
+   * Technology for students?
 
-Design Practice: A day in the life of your user. 
+<b>Design Practice:</b> A day in the life of your user. 
 - Building empathy through storyboarding.
 - Quantitative and qualitative approaches to telling your user’s story.
 
-Design Practice: Workflow diagrams
+<b>Design Practice:</b> Workflow diagrams
 - What could go wrong? Diagramming non-linear workflows.
 
 ### Weeks 3 + 4 + 5
@@ -98,20 +98,20 @@ Possible Topics:
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
 
-Design Practice: Self-experimentation.
+<b>Design Practice:</b> Self-experimentation.
 - Pick 2 pedagogical methods. Try both. Design a no-tech lesson for the class using the one that you think worked better.
 - What are the stated goals of this method?
 - How did you assess whether these goals were met?
 - Pick the more effective one and design a lesson for the class.
 
-Design Practice: Evaluating existing products.
+<b>Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
 - Compare and contrast them.
 - Are any of them an improvement on what you did without tech?
 - Are there any side effects?
 - Pick the best one and prepare a lesson for the class.
 
-Design Practice: Rapid prototyping designs.
+<b>Design Practice:</b> Rapid prototyping designs.
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 ### Weeks 5+6
@@ -120,11 +120,11 @@ Design Practice: Rapid prototyping designs.
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
 
-#### Design Practice: Brainstorming
+<b>Design Practice:</b> Brainstorming
 - Different ways to “prime” your confidence?
 - How can coursework be restructured to make it harder to fall behind?
 
-#### Design Practice: Iteration
+<b>Design Practice:</b> Iteration
 - Revisit your design with behavioral psychology in mind.
 
 ### Weeks 7-8
