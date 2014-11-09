@@ -190,14 +190,13 @@ Imagine a new assessment for writing. Address the following:
 ### Week 12 - Presentations
 
 Reading to keep abreast of:
-[Hechinger Report](http://www.google.com/url?q=http%3A%2F%2Fhechingerreport.org%2F&sa=D&sntz=1&usg=AFQjCNFro3AgPkFGckVWYJcc9ePCf2LsIA)
-[Teachers College Record](http://www.google.com/url?q=http%3A%2F%2Fwww.tcrecord.org%2F&sa=D&sntz=1&usg=AFQjCNGTb_mb4PtDzbJci0Ul72IRSTkHtA) - Academic
-[Chalk Beat Blog](http://www.google.com/url?q=http%3A%2F%2Fchalkbeat.org%2F&sa=D&sntz=1&usg=AFQjCNGeVP0wjRbBsr2ZGBU9_W-zjHWzFw) - Long-form on K12
-[KQED’s education blog](http://www.google.com/url?q=http%3A%2F%2Fblogs.kqed.org%2Fmindshift%2F&sa=D&sntz=1&usg=AFQjCNFqczykqmRUvSQIn5B8DjZHTTMYLQ)
-[Education Next](http://www.google.com/url?q=http%3A%2F%2Feducationnext.org%2F&sa=D&sntz=1&usg=AFQjCNFecO7yXmfvO5yz1jTxRXhOkJ3dfg) - Education Policy
-[EdWeek](http://edweek.org/) - A bit press-releasy
-[Edutopia](http://www.edutopia.org/) - What's trendy.
-[EdSurge](https://www.edsurge.com/) - Edtech startupland
-
-[Chronicle for Higher Ed](http://chronicle.com/)
-[Times Higher Ed UK](http://www.google.com/url?q=http%3A%2F%2Fwww.timeshighereducation.co.uk%2F&sa=D&sntz=1&usg=AFQjCNE70VnrUy4WdryTED6M0jTetrTlPg)
+   * [Hechinger Report](http://www.google.com/url?q=http%3A%2F%2Fhechingerreport.org%2F&sa=D&sntz=1&usg=AFQjCNFro3AgPkFGckVWYJcc9ePCf2LsIA)
+   * [Teachers College Record](http://www.google.com/url?q=http%3A%2F%2Fwww.tcrecord.org%2F&sa=D&sntz=1&usg=AFQjCNGTb_mb4PtDzbJci0Ul72IRSTkHtA) - Academic
+   * [Chalk Beat Blog](http://www.google.com/url?q=http%3A%2F%2Fchalkbeat.org%2F&sa=D&sntz=1&usg=AFQjCNGeVP0wjRbBsr2ZGBU9_W-zjHWzFw) - Long-form on K12
+   * [KQED’s education blog](http://www.google.com/url?q=http%3A%2F%2Fblogs.kqed.org%2Fmindshift%2F&sa=D&sntz=1&usg=AFQjCNFqczykqmRUvSQIn5B8DjZHTTMYLQ)
+   * [Education Next](http://www.google.com/url?q=http%3A%2F%2Feducationnext.org%2F&sa=D&sntz=1&usg=AFQjCNFecO7yXmfvO5yz1jTxRXhOkJ3dfg) - Education Policy
+   * [EdWeek](http://edweek.org/) - A bit press-releasy
+   * [Edutopia](http://www.edutopia.org/) - What's trendy.
+   * [EdSurge](https://www.edsurge.com/) - Edtech startupland
+   * [Chronicle for Higher Ed](http://chronicle.com/)
+   * [Times Higher Ed UK](http://www.google.com/url?q=http%3A%2F%2Fwww.timeshighereducation.co.uk%2F&sa=D&sntz=1&usg=AFQjCNE70VnrUy4WdryTED6M0jTetrTlPg)
