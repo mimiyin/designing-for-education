@@ -52,24 +52,24 @@ Work-in-progress.
 Readings and guest speakers TBD.
 
 ### Weeks 1 + 2
-Education: What’s the point?
+#### Education: What’s the point?
 - Thomas Dewey: Democracy and Education
 - Tracking and Vocational Education
 
-The Demographics of Education
+#### The Demographics of Education
 - Who’s getting educated?
 - Where? 
 - For how long? 
 - And in what kind of educational institutions?
 
-Does education need tech?
+#### Does education need tech?
 - Uruguay v. U.S. v Finland
 
-Does education need disruption?
+#### Does education need disruption?
 - Lab schools
 - Charter schools
 
-What do we mean by EdTech?
+#### What do we mean by EdTech?
    * Technology that educates?
    * Technology for educators?
    * Technology used by educational institutions?
@@ -84,7 +84,8 @@ What do we mean by EdTech?
 - What could go wrong? Diagramming non-linear workflows.
 
 ### Weeks 3 + 4 + 5
-Pedagogy
+#### Pedagogy
+
 Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills
@@ -138,8 +139,9 @@ Possible Topics:
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
-<b>Design Practice:</b> Rapid prototyping
-Imagine a new assessment for writing. Address the following:
+<b>Design Practice:</b> Rapid prototyping.
+
+#### Imagine a new assessment for writing. Address the following:
 - Cheating
 - Scale
 - High stakes v low stakes
