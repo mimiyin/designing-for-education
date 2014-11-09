@@ -22,7 +22,7 @@ Questions we’ll tackle include:
 Class Structure
 ---------------
 
-Topics are organized on a 2 week cycle. Each cycle adds another layer of complexity to the challenges of designing technology solutions for education.
+Topics are organized on a 2-3 week cycle. Each cycle adds another layer of complexity to the challenges of designing technology solutions for education.
 
 You will be asked to research and “teach” a specific topic area as well as present and evaluate solutions. Students will work in groups of 3-4 for the first 8 weeks. The last 4 weeks will be devoted to individual research, design and prototyping of a particular solution.
 
@@ -114,7 +114,7 @@ Design Practice: Evaluating existing products.
 Design Practice: Rapid prototyping designs.
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
-### Week 6
+### Weeks 5+6
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
