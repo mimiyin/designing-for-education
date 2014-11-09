@@ -6,6 +6,7 @@ K-12 through Higher Ed.
 Course content is organized along 2 parallel tracks: The first is topical and intended to build a broad-ranging knowledge of education from demographics and pedagogy to assessment and business models through collaborative research. The second is practical and meant to provide hands-on experience with an iterative approach to design from developing user scenarios to self-experimentation to rapid prototyping and testing.
 
 Questions we’ll tackle include:
+
 Does education need technology like a fish needs a bicycle?
 
 Can we apply learnings from web instrumentation and behavioral analytics to reimagine how we assess student AND teacher performance so that assessment is a natural byproduct of instruction, not a disruption of it? Can assessment itself become a form of instruction?
@@ -17,7 +18,7 @@ What are the challenges to adoption and perhaps more importantly sales!
 How do you test the efficacy of edtech? Is it even possible at this stage?
 
 Class Structure
-===============
+---------------
 
 Topics are organized on a 2 week cycle. Each cycle adds another layer of complexity to the challenges of designing technology solutions for education.
 
@@ -43,12 +44,12 @@ Assignment
 - Design Exercise
 
 Syllabus
-========
+--------
 
 Work-in-progress.
 Readings and guest speakers TBD.
 
-Weeks 1 + 2
+### Weeks 1 + 2
 Education, What’s the point?
 - Thomas Dewey: Democracy and Education
 - Tracking and Vocational Education
@@ -80,7 +81,7 @@ Design Practice: A day in the life of your user.
 Design Practice: Workflow diagrams
 - What could go wrong? Diagramming non-linear workflows.
 
-Weeks 3 + 4 + 5
+### Weeks 3 + 4 + 5
 Pedagogy
 Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
@@ -111,7 +112,7 @@ Design Practice: Evaluating existing products.
 Design Practice: Rapid prototyping designs.
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
-Week 6
+### Week 6
 Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
@@ -124,7 +125,7 @@ Design Practice: Brainstorming
 Design Practice: Iteration
 - Revisit your design with behavioral psychology in mind.
 
-Weeks 7-8
+### Weeks 7-8
 Assessment and Admissions
 - What’s being measured today? What should we be measuring?
 - Brief history of the S.A.T. and the latest reimagining.
@@ -145,13 +146,13 @@ Imagine a new assessment for writing. Address the following:
 Design Practice: Iteration
 - Revisit your design and turn it into an assessment tool.
 
-Class 8 - Propose an area to focus on for the rest of the semester.
+### Class 8 - Propose an area to focus on for the rest of the semester.
 - Focus: Teacher, Student, Administrator
 - Demographics
 - Level of education
 - Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
 
-Weeks 9-10
+### Weeks 9-10
 IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
 - Choosing hardware and the perils of platform lock-in.
@@ -183,8 +184,8 @@ The Economics of Education
 — Proficiency-based degree programs. (e.g. College for America)
 — MOOCs.
 
-Week 11 - Speed Dating user testing
-Week 12 - Presentations
+### Week 11 - User testing
+### Week 12 - Presentations
 
 Reading to keep abreast of:
 Hechinger Report
