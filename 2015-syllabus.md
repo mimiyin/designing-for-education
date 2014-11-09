@@ -8,10 +8,15 @@ Course content is organized along 2 parallel tracks: The first is topical and in
 Questions we’ll tackle include:
 
 1. Does education need technology like a fish needs a bicycle?
+
 2. Can we apply learnings from web instrumentation and behavioral analytics to reimagine how we assess student AND teacher performance so that assessment is a natural byproduct of instruction, not a disruption of it? Can assessment itself become a form of instruction?
+
 3. How can we leverage technology to remodel the classroom along the lines of the modern workplace with its demands for collaboration, self-direction and the ability to tackle uncertainty with gusto!
+
 4. Who are the stakeholders in edtech? Who are the decision-makers?
+
 5. What are the challenges to adoption and perhaps more importantly sales!
+
 6. How do you test the efficacy of edtech? Is it even possible at this stage?
 
 Class Structure
