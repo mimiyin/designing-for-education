@@ -113,20 +113,20 @@ Design Practice: Rapid prototyping designs.
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 ### Week 6
-Non-Academic Factors in Educational Success
+#### Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
 
-Design Practice: Brainstorming
+#### Design Practice: Brainstorming
 - Different ways to “prime” your confidence?
 - How can coursework be restructured to make it harder to fall behind?
 
-Design Practice: Iteration
+#### Design Practice: Iteration
 - Revisit your design with behavioral psychology in mind.
 
 ### Weeks 7-8
-Assessment and Admissions
+#### Assessment and Admissions
 - What’s being measured today? What should we be measuring?
 - Brief history of the S.A.T. and the latest reimagining.
 - NYC Specialized H.S. assessment controversy.
@@ -136,14 +136,14 @@ Assessment and Admissions
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
-Design Practice: Rapid prototyping
+<b>Design Practice:</b> Rapid prototyping
 Imagine a new assessment for writing. Address the following:
 - Cheating
 - Scale
 - High stakes v low stakes
 - Relevance: What are we actually assessing?
 
-Design Practice: Iteration
+<b>Design Practice:</b> Iteration
 - Revisit your design and turn it into an assessment tool.
 
 ### Class 8 - Propose an area to focus on for the rest of the semester.
@@ -153,7 +153,7 @@ Design Practice: Iteration
 - Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
 
 ### Weeks 9-10
-IT/Logistics, Adoption/Deployment and Measuring Efficacy
+#### IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
 - Choosing hardware and the perils of platform lock-in.
 - Deployment fiascos. (Amplify, L.A. School District)
@@ -162,7 +162,7 @@ IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Nascent attempts to test efficacy of software (e.g. LEAP-Chicago, NYC DOE)
 - EdSurge’s product review catalog
 
-The Economics of Education
+#### The Economics of Education
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
 - What should we be measuring?
 - Non-profit versus for-profit
@@ -176,7 +176,7 @@ The Economics of Education
 — Labor (e.g. Adjuncts and grad students)
 — Scale: MOOCs and Adaptive Learning
 - Alternate Paths to Education
-— Minerva, the 30K elite education
+— Minerva, the $30K elite education
 — $1K college degree (e.g. Straighterline, Kepler)
 — Post-graduate education. (e.g. Hackerspaces, certifications.)
 — For-profit degree programs.
@@ -188,14 +188,14 @@ The Economics of Education
 ### Week 12 - Presentations
 
 Reading to keep abreast of:
-Hechinger Report
-Teachers College Record (Academic)
-Chalk Beat Blog - Long-form on K12
-KQED’s education blog
-Education Next  good policy stuff
-EdWeek - A bit press-releasy
-Edutopia trendy stuff
-EdSurge - Edtech startupland
+[Hechinger Report](http://www.google.com/url?q=http%3A%2F%2Fhechingerreport.org%2F&sa=D&sntz=1&usg=AFQjCNFro3AgPkFGckVWYJcc9ePCf2LsIA)
+[Teachers College Record](http://www.google.com/url?q=http%3A%2F%2Fwww.tcrecord.org%2F&sa=D&sntz=1&usg=AFQjCNGTb_mb4PtDzbJci0Ul72IRSTkHtA) - Academic
+[Chalk Beat Blog](http://www.google.com/url?q=http%3A%2F%2Fchalkbeat.org%2F&sa=D&sntz=1&usg=AFQjCNGeVP0wjRbBsr2ZGBU9_W-zjHWzFw) - Long-form on K12
+[KQED’s education blog](http://www.google.com/url?q=http%3A%2F%2Fblogs.kqed.org%2Fmindshift%2F&sa=D&sntz=1&usg=AFQjCNFqczykqmRUvSQIn5B8DjZHTTMYLQ)
+[Education Next](http://www.google.com/url?q=http%3A%2F%2Feducationnext.org%2F&sa=D&sntz=1&usg=AFQjCNFecO7yXmfvO5yz1jTxRXhOkJ3dfg) - Education Policy
+[EdWeek](http://edweek.org/) - A bit press-releasy
+[Edutopia](http://www.edutopia.org/) - What's trendy.
+[EdSurge](https://www.edsurge.com/) - Edtech startupland
 
-Chronicle for Higher Ed
-Times Higher Ed UK
+[Chronicle for Higher Ed](http://chronicle.com/)
+[Times Higher Ed UK](http://www.google.com/url?q=http%3A%2F%2Fwww.timeshighereducation.co.uk%2F&sa=D&sntz=1&usg=AFQjCNE70VnrUy4WdryTED6M0jTetrTlPg)
