@@ -3,13 +3,9 @@ Temporary Expert: Designing for Education
 
 K-12 through Higher Ed.
 
-Course content is organized along 2 parallel tracks: The first is topical and intended to build a broad-ranging knowledge of education from demographics and pedagogy to assessment and business models through collaborative research. The second is practical and meant to provide hands-on experience with an iterative approach to design from developing user scenarios to self-experimentation to rapid prototyping and testing.
+Some of the questions we’ll tackle:
 
-We will be working with various local schools, organizations and programs to arrange for some form of "classroom" observation. Students also have the option of signing up for an online course in place of observing a physical classroom.
-
-Questions we’ll tackle include:
-
-1. Does education need technology like a fish needs a bicycle?
+1. Does education need technology like a fish needs a bicycle? What do we even mean by "ed-tech?"
 
 2. Can we apply learnings from web instrumentation and behavioral analytics to reimagine how we assess student AND teacher performance so that assessment is a natural byproduct of instruction, not a disruption of it? Can assessment itself become a form of instruction?
 
@@ -20,6 +16,10 @@ Questions we’ll tackle include:
 5. What are the challenges to adoption and perhaps more importantly sales!
 
 6. How do you test the efficacy of edtech? Is it even possible at this stage?
+
+Course content is organized along 2 parallel tracks: The first is topical and intended to build a broad-ranging knowledge of education from demographics and pedagogy to assessment and business models through collaborative research. The second is practical and meant to provide hands-on experience with an iterative approach to design from developing user scenarios to self-experimentation to rapid prototyping and testing.
+
+We will be working with various local schools, organizations and programs to arrange for some form of "classroom" observation. Students also have the option of signing up for an online course in place of observing a physical classroom.
 
 Class Structure
 ---------------
