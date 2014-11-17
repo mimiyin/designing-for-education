@@ -70,6 +70,8 @@ Readings and guest speakers TBD.
 #### Does education need disruption?
 - Lab schools
 - Charter schools
+- Online
+- DIY
 
 #### What do we mean by EdTech?
    * Technology that educates?
