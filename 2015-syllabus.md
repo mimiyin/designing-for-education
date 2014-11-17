@@ -96,7 +96,7 @@ Possible Topics:
 - Flip: Does flip and video change what should go into the lecture?
 - Adaptive Learning: Does it work for everything?
 - Gamification: Do you actually learn anything?
-- Inquiry and project-based learning: Is it practical?
+- Self-directed inquiry, experiential and project-based learning.
 - This is your mind on metaphors.
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
