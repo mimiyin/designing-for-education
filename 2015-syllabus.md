@@ -102,7 +102,7 @@ Possible Topics:
 - Programming: Vocational or core curriculum?
 
 <b>Design Practice:</b> Self-experimentation.
-- Pick 2 pedagogical methods. Try both. Design a no-tech lesson for the class using the one that you think worked better.
+- Pick 2 pedagogical approaches. Try both. Design a no-tech lesson for the class using the one that you think worked better.
 - What are the stated goals of this method?
 - How did you assess whether these goals were met?
 - Pick the more effective one and design a lesson for the class.
