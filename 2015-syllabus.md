@@ -5,6 +5,8 @@ K-12 through Higher Ed.
 
 Course content is organized along 2 parallel tracks: The first is topical and intended to build a broad-ranging knowledge of education from demographics and pedagogy to assessment and business models through collaborative research. The second is practical and meant to provide hands-on experience with an iterative approach to design from developing user scenarios to self-experimentation to rapid prototyping and testing.
 
+We will be working with various local schools, organizations and programs to arrange for classroom observations. Students also have the option of signing up for an online course in place of observing a physical classroom.
+
 Questions we’ll tackle include:
 
 1. Does education need technology like a fish needs a bicycle?
