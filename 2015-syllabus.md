@@ -94,6 +94,7 @@ Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills
 - Close Reading, Balanced Literacy, The “New” Math of the 80s
+- Big History
 - The pros and cons of reading on Devices v. Paper
 - Flip: Does flip and video change what should go into the lecture?
 - Adaptive Learning: Does it work for everything?
