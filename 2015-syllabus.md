@@ -87,7 +87,7 @@ Readings and guest speakers TBD.
 <b>Design Practice:</b> Workflow diagrams
 - What could go wrong? Diagramming non-linear workflows.
 
-### Weeks 3 + 4 + 5
+### Weeks 2 + 3 + 4
 #### Pedagogy
 
 Possible Topics:
