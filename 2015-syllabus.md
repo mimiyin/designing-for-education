@@ -162,7 +162,7 @@ Possible Topics:
 - Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
 
 ### Week 9
-- <b>Read</b>[New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
+- <b>Read</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
 
 #### IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
