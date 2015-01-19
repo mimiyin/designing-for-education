@@ -44,7 +44,9 @@ Work-in-progress.
 
 ### Weeks 2 + 3 + 4
 #### Pedagogy
-<b>Reading</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
+- <b>Reading</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
+- <b>Listening</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
+- 
 
 Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
@@ -74,7 +76,9 @@ Possible Topics:
 
 ### Weeks 5+6
 - <b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
-- <b>Reading</b> [NYT: Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
+- <b>Reading</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
+- <b>Listening</b>[NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
+- <b>Reading</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
