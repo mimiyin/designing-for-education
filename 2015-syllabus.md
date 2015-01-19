@@ -40,6 +40,7 @@ Work-in-progress.
 - DIY
 
 <b>Week 1 Design Practice:</b> Demographic Research
+
 <b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
 
 ### Weeks 2 + 3 + 4
@@ -117,26 +118,9 @@ Possible Topics:
 <b>Design Practice:</b> Iteration
 - Revisit your design and turn it into an assessment tool.
 
-### Week 8 Higher Ed and The "Future" of Education
+### Week 8 Higher Ed and The Economics of Education
 <b>Reading</b> Anya Kamenetz: DIY U - Chapters 1-6
 
-#### Present Proposal for Final Project
-- Focus: Teacher, Student, Administrator
-- Demographics
-- Level of education
-- Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
-
-### Week 9
-#### IT/Logistics, Adoption/Deployment and Measuring Efficacy
-- Connectivity
-- Choosing hardware and the perils of platform lock-in.
-- Deployment fiascos. (Amplify, L.A. School District)
-- The challenges of persuading teachers to adopt new technologies.
-- (The lack of) professional development (teacher training).
-- Nascent attempts to test efficacy of software (e.g. LEAP-Chicago, NYC DOE)
-- EdSurge’s product review catalog
-
-#### The Economics of Education
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
 - What should we be measuring?
 - Non-profit versus for-profit
@@ -156,7 +140,22 @@ Possible Topics:
 — For-profit degree programs.
 — Online degree programs.
 — Proficiency-based degree programs. (e.g. College for America)
-— MOOCs.
+
+#### Present Proposal for Final Project
+- Focus: Teacher, Student, Administrator
+- Demographics
+- Level of education
+- Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
+
+### Week 9
+#### IT/Logistics, Adoption/Deployment and Measuring Efficacy
+- Connectivity
+- Choosing hardware and the perils of platform lock-in.
+- Deployment fiascos. (Amplify, L.A. School District)
+- The challenges of persuading teachers to adopt new technologies.
+- (The lack of) professional development (teacher training).
+- Nascent attempts to test efficacy of software (e.g. LEAP-Chicago, NYC DOE)
+- EdSurge’s product review catalog
 
 ### Weeks 10 + 11 - Workshopping Final Project
 ### Week 12 - Final Project Presentations
