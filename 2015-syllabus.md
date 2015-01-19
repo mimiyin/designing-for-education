@@ -48,7 +48,7 @@ Work-in-progress.
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
 - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
-- 
+
 Possible Topics:
 - Early Childhood Development
 - Drill ‘n Kill, Sage on a Stage
