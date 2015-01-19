@@ -15,7 +15,7 @@ Work-in-progress.
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
 - <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
-- 
+
 #### The Demographics of Education
 - Who’s getting educated?
 - Where? 
