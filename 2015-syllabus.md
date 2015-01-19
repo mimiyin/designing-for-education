@@ -14,8 +14,7 @@ Work-in-progress.
 
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
-- Thomas Dewey: Democracy and Education
-- Tracking and Vocational Education
+- Thomas Dewey: Democracy and Education - Chapters 1, 2, 7, 23
 
 #### The Demographics of Education
 - Who’s getting educated?
@@ -40,12 +39,13 @@ Work-in-progress.
 - Online
 - DIY
 
-<b>Design Practice:</b> A day in the life of your user. 
-- Building empathy through storyboarding.
-- Quantitative and qualitative approaches to telling your user’s story.
+<b>Week 1 Design Practice:</b> Demographic Research
+<b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
 
-<b>Design Practice:</b> Workflow diagrams
-- What could go wrong? Diagramming non-linear workflows.
+### Assignment for Week 2:
+- Read Chapters 1, 2, 7, and 23 of On Democracy and Education
+- Demographic Research
+
 
 ### Weeks 2 + 3 + 4
 #### Pedagogy
@@ -63,21 +63,18 @@ Possible Topics:
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
 
-<b>Design Practice:</b> Self-experimentation.
+<b>Week 3 Design Practice:</b> Self-experimentation + Workflow diagrams
 - Pick 2 pedagogical approaches. Try both. Design a no-tech lesson for the class using the one that you think worked better.
 - What are the stated goals of this method?
 - How did you assess whether these goals were met?
 - Pick the more effective one and design a lesson for the class.
 
-<b>Design Practice:</b> Evaluating existing products.
+<b>Week 4 Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
 - Compare and contrast them.
 - Are any of them an improvement on what you did without tech?
 - Are there any side effects?
 - Pick the best one and prepare a lesson for the class.
-
-<b>Design Practice:</b> Rapid prototyping designs.
-- Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 ### Weeks 5+6
 #### Non-Academic Factors in Educational Success
@@ -89,8 +86,9 @@ Possible Topics:
 - Different ways to “prime” your confidence?
 - How can coursework be restructured to make it harder to fall behind?
 
-<b>Design Practice:</b> Iteration
-- Redesign a product you evaluated with behavioral psychology in mind.
+<b>Week 5 Design Practice:</b> Iteration + Rapid prototyping.
+- Prototype + test 3 designs for the pedagogical method you chose in the previous week.
+
 
 ### Weeks 7-8
 #### Assessment and Admissions
