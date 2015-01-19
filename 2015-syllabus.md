@@ -117,6 +117,7 @@ Possible Topics:
    - [NYS Common Core Website](https://www.engageny.org/ddi-library)
 - Low versus High-stakes Testing (US, China/Korea)
 - Cheating (by students *and* teachers/administrators)
+   - [New Yorker/ Wrong Answer](http://www.newyorker.com/magazine/2014/07/21/wrong-answer)
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
@@ -161,6 +162,8 @@ Possible Topics:
 - Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
 
 ### Week 9
+- <b>Read</b>[New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
+
 #### IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
 - Choosing hardware and the perils of platform lock-in.
