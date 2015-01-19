@@ -14,7 +14,7 @@ Work-in-progress.
 
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
-<b>Reading</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
+- <b>Reading</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
 
 #### The Demographics of Education
 - Who’s getting educated?
@@ -46,7 +46,7 @@ Work-in-progress.
 #### Pedagogy
 - <b>Reading</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 - <b>Listening</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
-- 
+- <b>Listening</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
 
 Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
