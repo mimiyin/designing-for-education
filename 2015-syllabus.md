@@ -36,8 +36,11 @@ Work-in-progress.
 #### Does education need disruption?
 - Lab schools
 - Charter schools
-- Online
 - DIY
+- Online
+- Digital
+   - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
+   - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
 <b>Week 1 Design Practice:</b> Demographic Research
 
