@@ -14,7 +14,7 @@ Work-in-progress.
 
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
-- Thomas Dewey: Democracy and Education - Chapters 1, 2, 7, 23
+<b>Reading</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
 
 #### The Demographics of Education
 - Who’s getting educated?
@@ -42,13 +42,9 @@ Work-in-progress.
 <b>Week 1 Design Practice:</b> Demographic Research
 <b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
 
-### Assignment for Week 2:
-- Read Chapters 1, 2, 7, and 23 of On Democracy and Education
-- Demographic Research
-
-
 ### Weeks 2 + 3 + 4
 #### Pedagogy
+<b>Reading</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 
 Possible Topics:
 - Drill ‘n Kill, Sage on a Stage
@@ -77,6 +73,8 @@ Possible Topics:
 - Pick the best one and prepare a lesson for the class.
 
 ### Weeks 5+6
+<b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
@@ -90,7 +88,7 @@ Possible Topics:
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 
-### Weeks 7-8
+### Weeks 7
 #### Assessment and Admissions
 - What’s being measured today? What should we be measuring?
 - Brief history of the S.A.T. and the latest reimagining.
@@ -101,7 +99,7 @@ Possible Topics:
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
-<b>Design Practice:</b> Rapid prototyping.
+<b>Design Practice:</b> Self-experimentation.
 
 #### Imagine a new assessment for writing. Address the following:
 - Cheating
@@ -112,7 +110,10 @@ Possible Topics:
 <b>Design Practice:</b> Iteration
 - Revisit your design and turn it into an assessment tool.
 
-### Week 8 - Propose an area to focus on for the rest of the semester.
+### Week 8 Higher Ed and The "Future" of Education
+<b>Reading</b> Anya Kamenetz: DIY U - Chapters 1-6
+
+#### Present Proposal for Final Project
 - Focus: Teacher, Student, Administrator
 - Demographics
 - Level of education
