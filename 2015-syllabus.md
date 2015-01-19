@@ -52,7 +52,9 @@ Work-in-progress.
 Possible Topics:
 - Early Childhood Development
 - Drill ‘n Kill, Sage on a Stage
-- The Common Core, Higher-order Literacy, 21st C Skills
+- The Common Core, Higher-order Literacy, 21st C Skills 
+   - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
+   - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
 - Close Reading, Balanced Literacy, The “New” Math of the 80s
 - Big History
 - The pros and cons of reading on Devices v. Paper
