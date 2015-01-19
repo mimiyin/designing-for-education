@@ -92,15 +92,15 @@ Possible Topics:
 - ESL and Learning Challenges
 - Willpower as a finite resource
 
-<b>Design Practice:</b> Brainstorming
+<b>Week 5 Design Practice:</b> Brainstorming
 - What are different ways to “prime” your confidence?
 - ...to stretch willpower?
 - How can a syllabus be restructured to make it harder to fall behind?
 
-<b>Week 5 Design Practice:</b> Iteration + Rapid prototyping.
+<b>Week 5+6 Design Practice:</b> Iteration + Rapid prototyping.
 - Re-design with non-academic factors in mind.
 
-### Weeks 7
+### Week 7
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
 - <b>Read</b> [NPR/ The Importance of Low-Stakes Student Feedback](http://blogs.kqed.org/mindshift/2014/01/the-importance-of-low-stakes-student-feedback/) 
 - <b>Read</b> [NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
@@ -117,7 +117,8 @@ Possible Topics:
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
-<b>Design Practice:</b> Self-experimentation.
+<b>Week 7 Design Practice:</b> Iteration + Rapid Prototyping
+- Redesign and bake assessment into the learning process.
 
 #### Imagine a new assessment for writing. Address the following:
 - Cheating
@@ -150,7 +151,7 @@ Possible Topics:
    - Online degree programs.
    - Proficiency-based degree programs. (e.g. College for America, Western Governor's)
 
-#### Present Proposal for Final Project
+#### Thoughts for Final Project
 - Focus: Teacher, Student, Administrator
 - Demographics
 - Level of education
