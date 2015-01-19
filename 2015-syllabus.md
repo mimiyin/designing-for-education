@@ -12,8 +12,8 @@ Syllabus
 
 Work-in-progress.
 
-### Week 1
-#### Education: What’s the point?
+### Week 1 + 2
+#### Education: What constitutes an education? Why do we need it?
 - Thomas Dewey: Democracy and Education
 - Tracking and Vocational Education
 
@@ -22,6 +22,14 @@ Work-in-progress.
 - Where? 
 - For how long? 
 - And in what kind of educational institutions?
+- According to what standards?
+
+#### What do we mean by EdTech?
+   * Technology that educates?
+   * Technology for educators?
+   * Technology used by educational institutions?
+   * Technology for education administrators and policymakers?
+   * Technology for students?
 
 #### Does education need tech?
 - Uruguay v. U.S. v Finland
@@ -31,13 +39,6 @@ Work-in-progress.
 - Charter schools
 - Online
 - DIY
-
-#### What do we mean by EdTech?
-   * Technology that educates?
-   * Technology for educators?
-   * Technology used by educational institutions?
-   * Technology for education administrators and policymakers?
-   * Technology for students?
 
 <b>Design Practice:</b> A day in the life of your user. 
 - Building empathy through storyboarding.
@@ -59,7 +60,6 @@ Possible Topics:
 - Adaptive Learning: Does it work for everything?
 - Gamification: Do you actually learn anything?
 - Self-directed inquiry, experiential and project-based learning.
-- This is your mind on metaphors.
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
 
@@ -90,7 +90,7 @@ Possible Topics:
 - How can coursework be restructured to make it harder to fall behind?
 
 <b>Design Practice:</b> Iteration
-- Revisit your design with behavioral psychology in mind.
+- Redesign a product you evaluated with behavioral psychology in mind.
 
 ### Weeks 7-8
 #### Assessment and Admissions
