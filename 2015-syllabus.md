@@ -63,11 +63,13 @@ Possible Topics:
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
 
-<b>Week 3 Design Practice:</b> Self-experimentation + Workflow diagrams
-- Pick 2 pedagogical approaches. Try both. Design a no-tech lesson for the class using the one that you think worked better.
-- What are the stated goals of this method?
-- How did you assess whether these goals were met?
-- Pick the more effective one and design a lesson for the class.
+<b>Week 3 Design Practice:</b> Self-experimentation + Workflow
+- Pick a pedagogical technique to learn more about.
+- Design a lesson plan following its principles.
+- Incorporate "technology" in your lesson workflow.
+- Sketch out your workflow.
+- Test it on your groupmates.
+- Pick one to present to the class.
 
 <b>Week 4 Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
@@ -89,12 +91,12 @@ Possible Topics:
 - Willpower as a finite resource
 
 <b>Design Practice:</b> Brainstorming
-- Different ways to “prime” your confidence?
-- Ways to stretch willpower?
-- How can coursework be restructured to make it harder to fall behind?
+- What are different ways to “prime” your confidence?
+- ...to stretch willpower?
+- How can a syllabus be restructured to make it harder to fall behind?
 
 <b>Week 5 Design Practice:</b> Iteration + Rapid prototyping.
-- Prototype + test 3 designs for the pedagogical method you chose in the previous week.
+- Re-design with non-academic factors in mind.
 
 ### Weeks 7
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
