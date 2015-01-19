@@ -49,6 +49,7 @@ Work-in-progress.
 - <b>Listening</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
 
 Possible Topics:
+- Early Childhood Development
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills
 - Close Reading, Balanced Literacy, The “New” Math of the 80s
