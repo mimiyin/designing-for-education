@@ -74,7 +74,7 @@ Possible Topics:
 
 ### Weeks 5+6
 - <b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
-- <b>Reading</b> [Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
+- <b>Reading</b> [NYT: Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
