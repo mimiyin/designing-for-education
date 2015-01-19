@@ -48,7 +48,7 @@ Work-in-progress.
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
 - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
-
+- 
 Possible Topics:
 - Early Childhood Development
 - Drill ‘n Kill, Sage on a Stage
@@ -79,7 +79,7 @@ Possible Topics:
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
-- <b>Listen</b>[NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
+- <b>Listen</b> [NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
 - <b>Read</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
 
 #### Non-Academic Factors in Educational Success
@@ -97,8 +97,9 @@ Possible Topics:
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 ### Weeks 7
-- <b>Read</b>[NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
-- <b>Read</b>[NPR/ The Importance of Low-Stakes Student Feedback](http://blogs.kqed.org/mindshift/2014/01/the-importance-of-low-stakes-student-feedback/) 
+- <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
+- <b>Read</b> [NPR/ The Importance of Low-Stakes Student Feedback](http://blogs.kqed.org/mindshift/2014/01/the-importance-of-low-stakes-student-feedback/) 
+- <b>Read</b> [NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
 
 #### Assessment and Admissions
 - What’s being measured today? What should we be measuring?
