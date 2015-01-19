@@ -109,6 +109,7 @@ Possible Topics:
 - What’s being measured today? What should we be measuring?
 - Brief history of the S.A.T. and the latest reimagining.
 - NYC Specialized H.S. assessment controversy.
+   - [NYT/ How Game Theory Helped Improve NYC HS Application Process](http://www.nytimes.com/2014/12/07/nyregion/how-game-theory-helped-improve-new-york-city-high-school-application-process.html?_r=0)
 - Common Core assessments (NYS v. elsewhere).
 - Low versus High-stakes Testing (US, China/Korea)
 - Cheating (by students *and* teachers/administrators)
