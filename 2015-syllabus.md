@@ -73,20 +73,22 @@ Possible Topics:
 - Pick the best one and prepare a lesson for the class.
 
 ### Weeks 5+6
-<b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+- <b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+- <b>Reading</b> [Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
+- Willpower as a finite resource
 
 <b>Design Practice:</b> Brainstorming
 - Different ways to “prime” your confidence?
+- Ways to stretch willpower?
 - How can coursework be restructured to make it harder to fall behind?
 
 <b>Week 5 Design Practice:</b> Iteration + Rapid prototyping.
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
-
 
 ### Weeks 7
 #### Assessment and Admissions
