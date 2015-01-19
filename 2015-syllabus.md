@@ -14,7 +14,7 @@ Work-in-progress.
 
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
-- <b>Reading</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
+- <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
 
 #### The Demographics of Education
 - Who’s getting educated?
@@ -45,9 +45,9 @@ Work-in-progress.
 
 ### Weeks 2 + 3 + 4
 #### Pedagogy
-- <b>Reading</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
-- <b>Listening</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
-- <b>Listening</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
+- <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
+- <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
+- <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
 
 Possible Topics:
 - Early Childhood Development
@@ -77,10 +77,10 @@ Possible Topics:
 - Pick the best one and prepare a lesson for the class.
 
 ### Weeks 5+6
-- <b>Reading</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
-- <b>Reading</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
-- <b>Listening</b>[NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
-- <b>Reading</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
+- <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+- <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
+- <b>Listen</b>[NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
+- <b>Read</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
@@ -97,6 +97,9 @@ Possible Topics:
 - Prototype + test 3 designs for the pedagogical method you chose in the previous week.
 
 ### Weeks 7
+- <b>Read</b>[NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
+- <b>Read</b>[NPR/ The Importance of Low-Stakes Student Feedback](http://blogs.kqed.org/mindshift/2014/01/the-importance-of-low-stakes-student-feedback/) 
+
 #### Assessment and Admissions
 - What’s being measured today? What should we be measuring?
 - Brief history of the S.A.T. and the latest reimagining.
