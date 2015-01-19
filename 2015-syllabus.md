@@ -122,28 +122,27 @@ Possible Topics:
 <b>Design Practice:</b> Iteration
 - Revisit your design and turn it into an assessment tool.
 
-### Week 8 Higher Ed and The Economics of Education
-<b>Reading</b> Anya Kamenetz: DIY U - Chapters 1-6
+### Week 8 The Economics/Future of Education
+- <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
 
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
-- What should we be measuring?
 - Non-profit versus for-profit
 - The economics of:
-— Investment
-— Philanthropy (e.g. Newark, Gates Foundation)
-— Publishing and licensing content / Open Educational Resources
-— Sales
-— Regulation (e.g. Common core. Teacher evaluations.)
-— Retention (e.g. Drop-out rate. Building lazy rivers.)
-— Labor (e.g. Adjuncts and grad students)
-— Scale: MOOCs and Adaptive Learning
+   - Investment
+   - Philanthropy (e.g. Newark, Gates Foundation)
+   - Publishing and licensing content / Open Educational Resources
+   - Sales
+   - Regulation (e.g. Common core. Teacher assessment.)
+   - Retention (e.g. Drop-out rate. Building lazy rivers.)
+   - Labor (e.g. Adjuncts and grad students)
+   - Scale (e.g. MOOCs and Adaptive Learning)
 - Alternate Paths to Education
-— Minerva, the $30K elite education
-— $1K college degree (e.g. Straighterline, Kepler)
-— Post-graduate education. (e.g. Hackerspaces, certifications.)
-— For-profit degree programs.
-— Online degree programs.
-— Proficiency-based degree programs. (e.g. College for America)
+   - Minerva, the $30K elite education
+   - $1K college degree (e.g. Straighterline, Kepler)
+   - Post-graduate education. (e.g. Hackerspaces, certifications.)
+   - For-profit degree programs. (e.g. Phoenix, Kaplan)
+   - Online degree programs.
+   - Proficiency-based degree programs. (e.g. College for America, Western Governor's)
 
 #### Present Proposal for Final Project
 - Focus: Teacher, Student, Administrator
