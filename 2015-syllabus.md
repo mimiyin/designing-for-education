@@ -88,7 +88,6 @@ Possible Topics:
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
 - <b>Listen</b> [NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
 - <b>Read</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
-
 - <b>Optional</b> [Willpower by Roy F. Baumeister](http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231)
 - <b>Optional</b> [Scarcity by by Sendhil Mullainathan](http://www.amazon.com/Scarcity-Science-Having-Defines-Lives/dp/125005611X/ref=asap_bc?ie=UTF8)
 - <b>Optional</b> [Mountain People by Colin M. Turnbull](http://www.amazon.com/Mountain-People-Colin-M-Turnbull/dp/0671640984/)
