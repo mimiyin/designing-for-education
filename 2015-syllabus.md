@@ -99,17 +99,22 @@ Possible Topics:
 - <b>Optional</b> [Willpower by Roy F. Baumeister](http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231)
 - <b>Optional</b> [Scarcity by by Sendhil Mullainathan](http://www.amazon.com/Scarcity-Science-Having-Defines-Lives/dp/125005611X/ref=asap_bc?ie=UTF8)
 - <b>Optional</b> [Mountain People by Colin M. Turnbull](http://www.amazon.com/Mountain-People-Colin-M-Turnbull/dp/0671640984/)
+- <b>Optional</b> [The Marshmallow Test by Walter Mischel](http://www.amazon.com/The-Marshmallow-Test-Mastering-Self-Control/dp/0316230871)
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics 
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
 - Willpower as a finite resource
+- The Marshmallow Test
 
 <b>Week 5 Design Practice:</b> Brainstorming
 - What are different ways to “prime” your confidence?
-- ...to stretch willpower?
+- What are different ways to stretch willpower?
 - How can a syllabus be restructured to make it harder to fall behind?
+
+<b>Week 5 Design Practice:</b> Self-experimentation
+- Try a willpower app for a week. Document your experience.
 
 <b>Week 5+6 Design Practice:</b> Iteration + Rapid prototyping.
 - Re-design with non-academic factors in mind.
