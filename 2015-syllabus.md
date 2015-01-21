@@ -13,9 +13,9 @@ Homework
 
 Schedule / Contact
 ------------------
-- Thursdays, 3:20 - 6:15PM, Room 455
+- Thursdays, 3:20 - 6:15PM, Room 15
 - mimi.yin@nyu.edu
-- [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Mimi)
+- [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
 
 Syllabus
 --------
