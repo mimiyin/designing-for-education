@@ -7,10 +7,18 @@ Required Reading
 - [Elizabeth Green: Building a Better Teacher (Kindle Edition)](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone-ebook/dp/B00FPT5MSQ)
 - [Anya Kamenetz: DIY U (Kindle Edition)](http://www.amazon.com/DIY-Edupunks-Edupreneurs-Transformation-Education-ebook/dp/B005GLMAQA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1421691271&sr=1-1&keywords=DIY+U&pebp=1421691275342&peasin=B005GLMAQA)
 
+Homework
+--------
+- [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Mimi-Wednesday): This is where you post links to your weekly assignments
+
+Schedule / Contact
+------------------
+- Thursdays, 3:20 - 6:15PM, Room 455
+- mimi.yin@nyu.edu
+- [Office Hours Sign Up](https://itp.nyu.edu/inwiki/Signup/Mimi)
+
 Syllabus
 --------
-
-Work-in-progress.
 
 ### Week 1 + 2
 #### Education: What constitutes an education? Why do we need it?
