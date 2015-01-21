@@ -204,6 +204,9 @@ Reading to keep abreast of:
    * [Chronicle for Higher Ed](http://chronicle.com/)
    * [Times Higher Ed UK](http://www.google.com/url?q=http%3A%2F%2Fwww.timeshighereducation.co.uk%2F&sa=D&sntz=1&usg=AFQjCNE70VnrUy4WdryTED6M0jTetrTlPg)
 
+What's this class about?
+------------------------
+
 K-12 through Higher Ed.
 
 Some of the questions we’ll tackle:
