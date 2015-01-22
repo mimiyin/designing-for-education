@@ -41,6 +41,8 @@ Syllabus
 #### Does education need tech?
 - Uruguay v. U.S. v Finland
 
+#### Know your medium: What is technology good at? (Brainstorm)
+
 #### Does education need disruption?
 - Lab schools
 - Charter schools
