@@ -104,7 +104,10 @@ Possible Topics:
 - <b>Optional</b> [The Marshmallow Test by Walter Mischel](http://www.amazon.com/The-Marshmallow-Test-Mastering-Self-Control/dp/0316230871)
 
 #### Non-Academic Factors in Educational Success
-- Culture and Economics 
+- Culture and Economics
+- Race, Gender and Politics
+   - [The Atlantic/ Segregation Now...](http://www.theatlantic.com/features/archive/2014/04/segregation-now/359813/)
+   - [NYT/ Sex-segregated classrooms.](http://www.nytimes.com/2014/12/01/education/single-sex-education-public-schools-separate-boys-and-girls.html)
 - Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
 - Willpower as a finite resource
