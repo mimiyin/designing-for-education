@@ -42,6 +42,7 @@ Syllabus
 - Uruguay v. U.S. v Finland
 
 #### Know your medium: What is technology good at? (Brainstorm)
+- [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
 
 #### Does education need disruption?
 - Lab schools
