@@ -165,6 +165,7 @@ Possible Topics:
 - <b>Guest</b> Nick Parlante: Coursera, Stanford/EdX, CS101
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 
+#### Possible Topics
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
 - Non-profit versus for-profit
 - The economics of:
