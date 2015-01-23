@@ -105,6 +105,9 @@ Possible Topics:
 
 #### Non-Academic Factors in Educational Success
 - Culture and Economics
+   - [NPR/ When Sports Rule and School Suffers](http://www.wnyc.org/story/eyes-goal-when-sports-rule-and-school-suffers/)
+   - [The Atlantic/ The Case Against HS Sports](http://www.theatlantic.com/magazine/archive/2013/10/the-case-against-high-school-sports/309447/)
+   - [NPR/ Poverty and School](http://www.wnyc.org/story/eyes-goal-when-sports-rule-and-school-suffers/)
 - Race, Gender and Politics
    - [The Atlantic/ Segregation Now...](http://www.theatlantic.com/features/archive/2014/04/segregation-now/359813/)
    - [NYT/ Sex-segregated classrooms.](http://www.nytimes.com/2014/12/01/education/single-sex-education-public-schools-separate-boys-and-girls.html)
