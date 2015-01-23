@@ -162,7 +162,7 @@ Possible Topics:
 
 ### Week 8 The Economics/Future of Education - Mar 26
 - <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
-- <b>Guest</b> Nick Parlante: Coursera, Stanford/EdX, CS101
+- <b>Guest</b> [Nick Parlante: Coursera, Stanford/EdX, CS101](https://www.google.com/webhp?#q=nick+parlante)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 
 #### Possible Topics
