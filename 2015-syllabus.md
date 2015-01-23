@@ -20,7 +20,7 @@ Schedule / Contact
 Syllabus
 --------
 
-### Week 1 + 2
+### Week 1
 #### Education: What constitutes an education? Why do we need it?
 - <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
 
@@ -55,9 +55,9 @@ Syllabus
 
 <b>Week 1 Design Practice:</b> Demographic Research
 
-<b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
-
 ### Weeks 2 + 3 + 4
+- <b>Week 2 Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
+
 #### Pedagogy
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
@@ -78,6 +78,8 @@ Possible Topics:
 - Self-directed inquiry, experiential and project-based learning.
 - Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
+
+<b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
 
 <b>Week 3 Design Practice:</b> Self-experimentation + Workflow
 - Pick a pedagogical technique to learn more about.
