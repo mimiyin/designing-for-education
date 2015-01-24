@@ -41,8 +41,10 @@ Syllabus
 #### Does education need tech?
 - Uruguay v. U.S. v Finland
 
-#### Know your medium: What is technology good at? (Brainstorm)
+#### Know your medium: What is technology good at? bad at? (Brainstorm)
 - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
+- [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
+- [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-scree
 
 #### Does education need disruption?
 - Lab schools
@@ -50,8 +52,7 @@ Syllabus
 - DIY
 - Online
 - Digital
-   - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
-   - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
+n-time.html)
 
 <b>Week 1 Design Practice:</b> Demographic Research
 
@@ -65,6 +66,8 @@ Syllabus
 
 Possible Topics:
 - Early Childhood Development
+   - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
+   - [NPR/ Music and Pre-K](http://www.wnyc.org/story/pre-k-teachers-learn-techniques-reach-kids-through-music/)
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills 
    - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
