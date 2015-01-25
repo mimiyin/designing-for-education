@@ -66,8 +66,12 @@ n-time.html)
 
 Possible Topics:
 - Early Childhood Development
+   - [Roots of Empathy](http://www.rootsofempathy.org/) | [Video](https://www.youtube.com/watch?v=fvelYfCZCZs)
    - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
    - [NPR/ Music and Pre-K](http://www.wnyc.org/story/pre-k-teachers-learn-techniques-reach-kids-through-music/)
+   - [Etre et Avoir](https://www.youtube.com/watch?v=d79sc72IN3s) - Click CC for subtitles.
+   - [Bringing up Bebe](http://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting-ebook/dp/B005I4JG80)
+   - [Preschool in 3 Cultures](http://www.amazon.com/dp/0300048122/)
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills 
    - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
