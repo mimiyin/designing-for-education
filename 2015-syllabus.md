@@ -5,7 +5,6 @@ Required Reading
 ----------------
 - [John Dewey: On Democracy and Education](http://www.gutenberg.org/files/852/852-h/852-h.htm)
 - [Elizabeth Green: Building a Better Teacher (Kindle Edition)](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone-ebook/dp/B00FPT5MSQ)
-- [Anya Kamenetz: DIY U (Kindle Edition)](http://www.amazon.com/DIY-Edupunks-Edupreneurs-Transformation-Education-ebook/dp/B005GLMAQA/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1421691271&sr=1-1&keywords=DIY+U&pebp=1421691275342&peasin=B005GLMAQA)
 
 Homework
 --------
@@ -168,11 +167,11 @@ Possible Topics:
 - Revisit your design and turn it into an assessment tool.
 
 ### Week 8 The Economics/Future of Education - Mar 26
-- <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
 - <b>Guest</b> [Nick Parlante: Coursera, Stanford/EdX, CS101](https://www.google.com/webhp?#q=nick+parlante)
    - <b>Register + Watch</b> [Week 2 Lectures on For Loops](http://cs101-class.org/)
    - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
+- <b>Optional</b> Anya Kamenetz: DIY U - Chapters 1-6
 
 #### Possible Topics
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
