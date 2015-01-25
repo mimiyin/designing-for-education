@@ -276,3 +276,15 @@ Assignment
 —  JS prototyping frameworks
 Assignment
 - Design Exercise
+
+Rules of Play
+-----------------------------------------------
+* Be on time. Do the reading/video watching...closely. Pull your weight in group work. Document your process. Come prepared with questions. Put away screens during others' presentations. Participate! Participate! Participate!
+* Grading:
+   * 40% Class Participation
+   * 40% Quality of assignments
+   * 20% Final project
+   * According to ITP:
+      * 2 latenesses of more than 15 minutes counts as an absence.
+      * More than 2 absences is grounds for failure.
+
