@@ -170,6 +170,8 @@ Possible Topics:
 ### Week 8 The Economics/Future of Education - Mar 26
 - <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
 - <b>Guest</b> [Nick Parlante: Coursera, Stanford/EdX, CS101](https://www.google.com/webhp?#q=nick+parlante)
+   - <b>Register + Watch</b> [Week 2 Lectures on For Loops](http://cs101-class.org/)
+   - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 
 #### Possible Topics
