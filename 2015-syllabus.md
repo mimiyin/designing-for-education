@@ -15,6 +15,7 @@ Schedule / Contact
 - Thursdays, 3:20 - 6:15PM, Room 50
 - mimi.yin@nyu.edu
 - [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
+- [Join Mailing list](https://groups.google.com/a/itp.nyu.edu/forum/?hl=en#!forum/dfe-spring2015)
 
 Syllabus
 --------
@@ -52,7 +53,7 @@ Syllabus
 - Online
 - Digital
 
-<b>Week 1 Design Practice:</b> Demographic Research
+<b>Week 1 Design Practice:</b> Lay of the Land research.
 
 ### Weeks 2 + 3 + 4
 - <b>Week 2 Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
