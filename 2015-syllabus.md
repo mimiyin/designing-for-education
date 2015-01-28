@@ -65,7 +65,7 @@ Syllabus
 Possible Topics:
 - How we learn.
    - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
-   - [Erasing Memories to Treat PTSD](http://www.npr.org/blogs/health/2012/01/16/144672190/ending-nightmares-caused-by-ptsd)
+   - [NPR/ Erasing Memories to Treat PTSD](http://www.npr.org/blogs/health/2012/01/16/144672190/ending-nightmares-caused-by-ptsd)
 - Early Childhood Development
    - [Roots of Empathy](http://www.rootsofempathy.org/) | [Video](https://www.youtube.com/watch?v=fvelYfCZCZs)
    - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
