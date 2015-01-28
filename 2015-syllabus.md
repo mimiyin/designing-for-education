@@ -63,6 +63,8 @@ Syllabus
 - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
 
 Possible Topics:
+- How we learn.
+   - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
 - Early Childhood Development
    - [Roots of Empathy](http://www.rootsofempathy.org/) | [Video](https://www.youtube.com/watch?v=fvelYfCZCZs)
    - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
