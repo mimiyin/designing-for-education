@@ -8,7 +8,7 @@ Required Reading
 
 Homework
 --------
-- [Homework Wiki](https://github.com/ITPNYU/ICM-2014/wiki/Homework-Mimi-Wednesday): This is where you post links to your weekly assignments
+- [Assignments](https://github.com/mimiyin/designing-for-education/wiki/Assignments)
 
 Schedule / Contact
 ------------------
