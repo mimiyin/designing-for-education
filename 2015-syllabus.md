@@ -3,7 +3,9 @@ Temporary Expert: Designing for Education
 
 Required Reading
 ----------------
-- [John Dewey: On Democracy and Education](http://www.gutenberg.org/files/852/852-h/852-h.htm)
+- John Dewey: On Democracy and Education
+   - [Project Gutenberg](http://www.gutenberg.org/files/852/852-h/852-h.htm)
+   - [Free Kindle Book](http://www.amazon.com/Democracy-Education-introduction-philosophy-education-ebook/dp/B0082ZJ6WS/)
 - [Elizabeth Green: Building a Better Teacher (Kindle Edition)](http://www.amazon.com/Building-Better-Teacher-Teaching-Everyone-ebook/dp/B00FPT5MSQ)
 
 Homework
