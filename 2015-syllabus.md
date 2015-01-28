@@ -78,6 +78,7 @@ Possible Topics:
 - Big History
 - The pros and cons of reading on Devices v. Paper
 - Flip: Does flip and video change what should go into the lecture?
+   - [Rethinking the point of flip.](http://chronicle.com/blognetwork/castingoutnines/2015/01/22/three-evolving-thoughts-about-flipped-learning/) 
 - Adaptive Learning: Does it work for everything?
 - Gamification: Do you actually learn anything?
 - Self-directed inquiry, experiential and project-based learning.
