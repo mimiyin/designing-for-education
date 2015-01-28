@@ -55,8 +55,8 @@ Syllabus
 
 <b>Week 1 Design Practice:</b> Lay of the Land research.
 
-### Weeks 2 + 3 + 4
-- <b>Week 2 Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
+### Weeks 2 + 3 + 4 + 5(?)
+- <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
 
 #### Pedagogy
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
@@ -78,33 +78,30 @@ Possible Topics:
 - The Common Core, Higher-order Literacy, 21st C Skills 
    - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
    - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
-- Close Reading, Balanced Literacy, The “New” Math of the 80s
-- Big History
-- The pros and cons of reading on Devices v. Paper
+- Close Reading, Balanced Literacy, The “New” Math of the 80s, Big History
+   - [Shared Inquiry Handbook](http://www.greatbooks.org/wp-content/uploads/2014/12/Shared-Inquiry-Handbook.pdf)
 - Flip: Does flip and video change what should go into the lecture?
    - [Rethinking the point of flip.](http://chronicle.com/blognetwork/castingoutnines/2015/01/22/three-evolving-thoughts-about-flipped-learning/) 
 - Adaptive Learning: Does it work for everything?
 - Gamification: Do you actually learn anything?
 - Self-directed inquiry, experiential and project-based learning.
-- Low-stakes quizzing: Assessment as teaching.
 - Programming: Vocational or core curriculum?
+   - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
 
-<b>Week 2 Design Practice:</b> Building Empathy in Design through Storyboarding
-
-<b>Week 3 Design Practice:</b> Self-experimentation + Workflow
+<b>Week 2 + 3 Design Practice:</b> Self-experimentation + Workflow
 - Pick a pedagogical technique to learn more about.
 - Design a lesson plan following its principles.
 - Incorporate "technology" in your lesson workflow.
 - Sketch out your workflow.
 - Test it on your groupmates.
-- Pick one to present to the class.
+- Pick one to try on the class.
 
 <b>Week 4 Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
-- Compare and contrast them.
+- Try using them. Compare and contrast them.
 - Are any of them an improvement on what you did without tech?
-- Are there any side effects?
-- Pick the best one and prepare a lesson for the class.
+- Are there any unfortunate side effects?
+- Pick the best one and redesign your lesson around this product. 
 
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
