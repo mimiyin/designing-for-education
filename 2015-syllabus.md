@@ -25,6 +25,8 @@ Syllabus
 ### Week 1
 #### Education: What constitutes an education? Why do we need it?
 - <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
+   - [Project Gutenberg](http://www.gutenberg.org/files/852/852-h/852-h.htm)
+   - [Free Kindle Book](http://www.amazon.com/Democracy-Education-introduction-philosophy-education-ebook/dp/B0082ZJ6WS/)
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 
