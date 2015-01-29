@@ -89,7 +89,8 @@ Possible Topics:
 - Flip: Does flip and video change what should go into the lecture?
    - [Rethinking the point of flip.](http://chronicle.com/blognetwork/castingoutnines/2015/01/22/three-evolving-thoughts-about-flipped-learning/) 
 - Adaptive Learning: Does it work for everything?
-- Gamification: Do you actually learn anything?
+- Gamification
+   - [James Gee on Games and Literacy](http://www.americanradioworks.org/video-games-new-literacy-for-a-complex-world/)
 - Self-directed inquiry, experiential and project-based learning.
 - Programming: Vocational or core curriculum?
    - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
@@ -179,6 +180,10 @@ Possible Topics:
    - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 - <b>Optional</b> Anya Kamenetz: DIY U - Chapters 1-6
+- <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
+- <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
+- <b>Read</b> [Atlantic/ Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)
+- <b>Read</b> [NYT/ Where Factory Apprenticeship Is Latest Model From Germany](http://www.nytimes.com/2013/12/01/business/where-factory-apprenticeship-is-latest-model-from-germany.html?pagewanted=all)
 
 #### Possible Topics
 - Budget breakdown: Administrative versus Instructional versus Physical Plant
