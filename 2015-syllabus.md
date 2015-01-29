@@ -24,7 +24,7 @@ Syllabus
 
 ### Week 1
 #### Education: What constitutes an education? Why do we need it?
-- <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7, 23
+- <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7
    - [Project Gutenberg](http://www.gutenberg.org/files/852/852-h/852-h.htm)
    - [Free Kindle Book](http://www.amazon.com/Democracy-Education-introduction-philosophy-education-ebook/dp/B0082ZJ6WS/)
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -180,6 +180,7 @@ Possible Topics:
    - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 - <b>Optional</b> Anya Kamenetz: DIY U - Chapters 1-6
+- <b>Read</b> Chapter 23 of On Democracy and Education
 - <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
 - <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
 - <b>Read</b> [Atlantic/ Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)
