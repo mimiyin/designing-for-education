@@ -94,7 +94,7 @@ Syllabus
    - Test it on your groupmates.
    - Document. I will pick 4 to do in class.
    
-### Weeks 2 + 3 + 4 + 5(?)
+### Topics for Weeks 2 + 3 + 4 + 5(?)
 
 #### Pedagogy: The Art of Teaching & The Science of Learning
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
@@ -118,12 +118,12 @@ Possible Topics:
    - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
 - Close Reading, Balanced Literacy, The “New” Math of the 80s, Big History
    - [Shared Inquiry Handbook](http://www.greatbooks.org/wp-content/uploads/2014/12/Shared-Inquiry-Handbook.pdf)
+- Self-directed inquiry, experiential, project-based learning.
 - Flip: Does flip and video change what should go into the lecture?
    - [Rethinking the point of flip.](http://chronicle.com/blognetwork/castingoutnines/2015/01/22/three-evolving-thoughts-about-flipped-learning/) 
 - Adaptive Learning: Does it work for everything?
 - Gamification
    - [James Gee on Games and Literacy](http://www.americanradioworks.org/video-games-new-literacy-for-a-complex-world/)
-- Self-directed inquiry, experiential, project-based learning.
 - Vocational 
    - <b>Read</b> Chapter 23 of On Democracy and Education
    - <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
