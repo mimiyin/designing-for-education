@@ -65,25 +65,35 @@ Syllabus
 - Prep questions
 - <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
 
-#### Education: What constitutes an education? Why do we need it?
+#### <b>Discuss</b> Education: What constitutes an education? Why do we need it?
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 
-#### Present "Lay of the Land" research
+#### <b>Present</b> "Lay of the Land" Research
    - Any rules of thumb / advice?
 
-#### Surveys and Rubrics for Post-mortems
+#### <b>Model</b> Surveys and Rubrics for Post-mortems
 
 <b>Week 2 Design Practice:</b> Feedback surveys and post-mortems.
 
 ### Week 3
 - <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
+- <b>Discuss</b> readings
+- <b>Discuss</b> annotation experience
+- <b>Model</b> Why is the sky blue?
 
-<b> Week 3 Design Practice:</b> Framing research questions.
-
+<b> Week 3 Design Practice:</b> Figuring out your target user + framing research questions.
+<b> Week 3 Design Practice:</b> Self-experimentation. Teach a lesson using the pedagogical approach you've chosen to research.
+   - STEM: Explain division by fractions.
+   - Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
+   - You *can* incorporate technology in your lesson, but don't worry too much about it.
+   - Sketch out your workflow.
+   - Test it on your groupmates.
+   - Document. I will pick 4 to do in class.
+   
 ### Weeks 2 + 3 + 4 + 5(?)
 
-#### Pedagogy
+#### Pedagogy: The Art of Teaching & The Science of Learning
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
 
 Possible Topics:
@@ -120,20 +130,13 @@ Possible Topics:
 - Programming: Vocational or core curriculum?
    - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
 
-<b>Week 2 + 3 Design Practice:</b> Self-experimentation + Workflow
-- Pick a pedagogical technique to learn more about.
-- Design a lesson plan following its principles.
-- Incorporate "technology" in your lesson workflow.
-- Sketch out your workflow.
-- Test it on your groupmates.
-- Pick one to try on the class.
-
 <b>Week 4 Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
 - Try using them. Compare and contrast them.
 - Are any of them an improvement on what you did without tech?
 - Are there any unfortunate side effects?
 - Pick the best one and redesign your lesson around this product. 
+- Document, I will pick 4 for class.
 
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
