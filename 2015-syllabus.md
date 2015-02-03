@@ -81,6 +81,7 @@ Syllabus
 - <b>Discuss</b> readings
 - <b>Discuss</b> annotation experience
 - <b>Model</b> Why is the sky blue?
+- <b>Discuss</b> Design Problem v. Technical Problem v. Business Problem v. Institutional/Cultural/Behavioral Problem
 
 <b> Week 3 Design Practice:</b> Framing research questions and Finding your target user.
    - What do you need to know about your problem area to design for it?
