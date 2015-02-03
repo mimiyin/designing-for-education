@@ -85,11 +85,10 @@ Syllabus
 
 #### Pedagogy
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
-- <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
-- <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
 
 Possible Topics:
-- How we learn.
+- Brain Science & How we learn.
+   - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
    - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
    - [NPR/ Erasing Memories to Treat PTSD](http://www.npr.org/blogs/health/2012/01/16/144672190/ending-nightmares-caused-by-ptsd)
 - Early Childhood Development
@@ -101,6 +100,7 @@ Possible Topics:
    - [Preschool in 3 Cultures](http://www.amazon.com/dp/0300048122/)
 - Drill ‘n Kill, Sage on a Stage
 - The Common Core, Higher-order Literacy, 21st C Skills 
+   - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
    - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
    - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
 - Close Reading, Balanced Literacy, The “New” Math of the 80s, Big History
