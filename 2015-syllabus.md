@@ -132,6 +132,11 @@ Possible Topics:
    - <b>Read</b> [NYT/ Where Factory Apprenticeship Is Latest Model From Germany](http://www.nytimes.com/2013/12/01/business/where-factory-apprenticeship-is-latest-model-from-germany.html?pagewanted=all)
 - Programming: Vocational or core curriculum?
    - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
+   
+<b>Week 4 Design Practive:<b> Know your medium. What is tech good at?
+   - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
+   - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
+   - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
 <b>Week 4 Design Practice:</b> Evaluating existing products.
 - Select 3 products that claim to implement the technique you researched.
