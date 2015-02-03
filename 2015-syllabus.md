@@ -83,8 +83,10 @@ Syllabus
 - <b>Model</b> Why is the sky blue?
 - <b>Discuss</b> Design Problem v. Technical Problem v. Business Problem v. Institutional/Cultural/Behavioral Problem
 
-<b> Week 3 Design Practice:</b> Framing research questions and Finding your target user.
-   - What do you need to know about your problem area to design for it?
+<b> Week 3 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
+   - How do you define the problem?
+   - How do you find your target user?
+   - What do you need to know about your interest area to design for it?
    - What do you need to know about your target user to design for them?
    
 <b> Week 3 Design Practice:</b> Self-experimentation. Teach a lesson using the pedagogical approach you've chosen to research.
