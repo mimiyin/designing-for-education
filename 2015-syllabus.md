@@ -61,8 +61,23 @@ Syllabus
 
 <b>Week 1 Design Practice:</b> Lay of the Land research.
 
-### Weeks 2 + 3 + 4 + 5(?)
+### Week 2
+- Prep questions
 - <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
+- 
+- Presentations of "Lay of the Land" research
+   - Any rules of thumb / advice?
+
+<b>Week 2 Design Practice:</b> Feedback surveys and post-mortems.
+- Run a post-mortem for your presentation.
+- Create your own rubric for it or a few of these.
+- Design a feedback survey for next week
+
+### Week 3
+- <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
+
+
+### Weeks 2 + 3 + 4 + 5(?)
 
 #### Pedagogy
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
@@ -91,7 +106,13 @@ Possible Topics:
 - Adaptive Learning: Does it work for everything?
 - Gamification
    - [James Gee on Games and Literacy](http://www.americanradioworks.org/video-games-new-literacy-for-a-complex-world/)
-- Self-directed inquiry, experiential and project-based learning.
+- Self-directed inquiry, experiential, project-based learning.
+- Vocational 
+   - <b>Read</b> Chapter 23 of On Democracy and Education
+   - <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
+   - <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
+   - <b>Read</b> [Atlantic/ Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)
+   - <b>Read</b> [NYT/ Where Factory Apprenticeship Is Latest Model From Germany](http://www.nytimes.com/2013/12/01/business/where-factory-apprenticeship-is-latest-model-from-germany.html?pagewanted=all)
 - Programming: Vocational or core curriculum?
    - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
 
@@ -165,11 +186,11 @@ Possible Topics:
 <b>Week 7 Design Practice:</b> Iteration + Rapid Prototyping
 - Redesign and bake assessment into the learning process.
 
-#### Imagine a new assessment for writing. Address the following:
-- Cheating
-- Scale
-- High stakes v low stakes
-- Relevance: What are we actually assessing?
+#### [In-Class] Re-imagine assessment for reading or writing.
+- We will be collaborating with English teachers from Pace University's Graduate School of Education program.
+- http://tomliamlynch.org/the-fall-of-septimus/
+- [Reading Comprehension Rubrics](https://www.google.com/search?q=writing+assessment+rubrics&espv=2&biw=1118&bih=1018&tbm=isch&tbo=u&source=univ&sa=X&ei=YwHRVJTBJsyrNsmbgbgD&ved=0CB0QsAQ&dpr=1.8#tbm=isch&q=reading+comprehension+assessment+rubrics&imgdii=_&imgrc=dpZs2zWHCOAmKM%253A%3BtsqJaR8Gj2euwM%3Bhttp%253A%252F%252Fmaryidefalco.com%252Freading%252520site%252520reconnected%252Freading__language_arts_primary_teachers_2%252F5.Assessment_%252526_Rubrics_Reading_files%252FRubrics%252520for%252520retelling.jpg%3Bhttp%253A%252F%252Fmaryidefalco.com%252Freading%252520site%252520reconnected%252Freading__language_arts_primary_teachers_2%252F5.Assessment_%2526_Rubrics_Reading.html%3B777%3B866)
+- [Writing Assessment Rubrics](https://www.google.com/search?q=writing+assessment+rubrics&espv=2&biw=1118&bih=1018&tbm=isch&tbo=u&source=univ&sa=X&ei=YwHRVJTBJsyrNsmbgbgD&ved=0CB0QsAQ&dpr=1.8)
 
 <b>Design Practice:</b> Iteration
 - Revisit your design and turn it into an assessment tool.
