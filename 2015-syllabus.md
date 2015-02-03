@@ -64,18 +64,22 @@ Syllabus
 ### Week 2
 - Prep questions
 - <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
-- 
-- Presentations of "Lay of the Land" research
+
+#### Education: What constitutes an education? Why do we need it?
+- [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
+- [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
+
+#### Present "Lay of the Land" research
    - Any rules of thumb / advice?
 
+#### Surveys and Rubrics for Post-mortems
+
 <b>Week 2 Design Practice:</b> Feedback surveys and post-mortems.
-- Run a post-mortem for your presentation.
-- Create your own rubric for it or a few of these.
-- Design a feedback survey for next week
 
 ### Week 3
 - <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
 
+<b> Week 3 Design Practice:</b> Framing research questions.
 
 ### Weeks 2 + 3 + 4 + 5(?)
 
