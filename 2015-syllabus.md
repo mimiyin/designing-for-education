@@ -23,36 +23,36 @@ Syllabus
 --------
 
 ### Week 1
-#### Education: What constitutes an education? Why do we need it?
+##### Education: What constitutes an education? Why do we need it?
 - <b>Read</b> John Dewey: On Democracy and Education - Chapters 1, 2, 7
    - [Project Gutenberg](http://www.gutenberg.org/files/852/852-h/852-h.htm)
    - [Free Kindle Book](http://www.amazon.com/Democracy-Education-introduction-philosophy-education-ebook/dp/B0082ZJ6WS/)
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 
-#### The Demographics of Education
+##### The Demographics of Education
 - Who’s getting educated?
 - Where? 
 - For how long? 
 - And in what kind of educational institutions?
 - According to what standards?
 
-#### What do we mean by EdTech?
+##### What do we mean by EdTech?
    * Technology that educates?
    * Technology for educators?
    * Technology used by educational institutions?
    * Technology for education administrators and policymakers?
    * Technology for students?
 
-#### Does education need tech?
+##### Does education need tech?
 - Uruguay v. U.S. v Finland
 
-#### Know your medium: What is technology good at? bad at? (Brainstorm)
+##### Know your medium: What is technology good at? bad at? (Brainstorm)
 - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
 - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
 - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
-#### Does education need disruption?
+##### Does education need disruption?
 - Lab schools
 - Charter schools
 - DIY
@@ -65,14 +65,14 @@ Syllabus
 - Prep questions
 - <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
 
-#### <b>Discuss</b> Education: What constitutes an education? Why do we need it?
+##### <b>Discuss</b> Education: What constitutes an education? Why do we need it?
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
 - [Bloom's Taxonomy](http://en.wikipedia.org/wiki/Bloom%27s_taxonomy)
 
-#### <b>Present</b> "Lay of the Land" Research
+##### <b>Present</b> "Lay of the Land" Research
    - Any rules of thumb / advice?
 
-#### <b>Model</b> Surveys and Rubrics for Post-mortems
+##### <b>Model</b> Surveys and Rubrics for Post-mortems
 
 <b>Week 2 Design Practice:</b> Feedback surveys and post-mortems.
 
