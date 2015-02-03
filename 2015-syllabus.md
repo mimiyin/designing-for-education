@@ -82,7 +82,10 @@ Syllabus
 - <b>Discuss</b> annotation experience
 - <b>Model</b> Why is the sky blue?
 
-<b> Week 3 Design Practice:</b> Figuring out your target user + framing research questions.
+<b> Week 3 Design Practice:</b> Framing research questions and Finding your target user.
+   - What do you need to know about your problem area to design for it?
+   - What do you need to know about your target user to design for them?
+   
 <b> Week 3 Design Practice:</b> Self-experimentation. Teach a lesson using the pedagogical approach you've chosen to research.
    - STEM: Explain division by fractions.
    - Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
