@@ -127,6 +127,8 @@ Possible Topics:
 - Adaptive Learning: Does it work for everything?
 - Gamification
    - [James Gee on Games and Literacy](http://www.americanradioworks.org/video-games-new-literacy-for-a-complex-world/)
+- Discipline
+   - Chapters 5-7 of Building a Better Teacher by Elizabeth Green
 - Vocational 
    - <b>Read</b> Chapter 23 of On Democracy and Education
    - <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
