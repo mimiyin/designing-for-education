@@ -78,10 +78,10 @@ Syllabus
 
 ### Week 3
 - <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
-- <b>Discuss</b> readings
+- <b>Discuss</b> readings vis-a-vis post-mortems
 - <b>Discuss</b> annotation experience
 - <b>Model</b> Why is the sky blue?
-- <b>Discuss</b> Design Problem v. Technical Problem v. Business Problem v. Institutional/Cultural/Behavioral Problem
+- <b>Model</b> Study aid based on brain science.
 
 <b> Week 3 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
    - How do you define the problem?
@@ -89,13 +89,13 @@ Syllabus
    - What do you need to know about your interest area to design for it?
    - What do you need to know about your target user to design for them?
    
-<b> Week 3 Design Practice:</b> Self-experimentation. Teach a lesson using the pedagogical approach you've chosen to research.
-   - STEM: Explain division by fractions.
-   - Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
+<b> Week 3 Design Practice:</b> Storyboard a workflow.
+   - Storyboard a workflow that incorporates the pedagogical approach you chose to 
+   - Your storyboard should teach something specific.
+      - e.g. STEM: Explain division by fractions.
+      - e.g. Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
    - You *can* incorporate technology in your lesson, but don't worry too much about it.
-   - Sketch out your workflow.
-   - Test it on your groupmates.
-   - Document. I will pick 4 to do in class.
+   - Document. We will workshop 4 in class.
    
 ### Topics for Weeks 2 + 3 + 4 + 5(?)
 
