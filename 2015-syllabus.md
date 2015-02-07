@@ -96,7 +96,12 @@ Syllabus
       - e.g. Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
    - You *can* incorporate technology in your lesson, but don't worry too much about it.
    - Document. We will workshop 4 in class.
-   
+
+### Week 4
+-<b>Guests</b> [Newsela](https://newsela.com/)
+   - Try reading one of their articles at each level. What do you think?
+   - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
+
 ### Topics for Weeks 2 + 3 + 4 + 5(?)
 
 #### Pedagogy: The Art of Teaching & The Science of Learning
