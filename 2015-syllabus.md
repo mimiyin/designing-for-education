@@ -11,6 +11,7 @@ Required Reading
 Homework
 --------
 - [Assignments](https://github.com/mimiyin/designing-for-education/wiki/Assignments)
+- [Requirements for Final Project](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
 
 Schedule / Contact
 ------------------
@@ -273,6 +274,7 @@ Possible Topics:
 - EdSurge’s product review catalog
 
 ### Weeks 10 + 11 - Workshopping Final Project
+- [Requirements](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
 ### Week 12 - Final Project Presentations
 
 Reading to keep abreast of:
@@ -342,7 +344,7 @@ Rules of Play
 * Be on time. Do the reading/video watching...closely. Pull your weight in group work. Document your process. Come prepared with questions. Put away screens during others' presentations. Participate! Participate! Participate!
 * Grading:
    * 40% Class Participation
-   * 40% Quality of assignments
+   * 40% Process + documentation of process for final project
    * 20% Final project
    * According to ITP:
       * 2 latenesses of more than 15 minutes counts as an absence.
