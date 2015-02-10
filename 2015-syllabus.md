@@ -121,11 +121,14 @@ Possible Topics:
    - [Bringing up Bebe](http://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting-ebook/dp/B005I4JG80)
    - [Preschool in 3 Cultures](http://www.amazon.com/dp/0300048122/)
 - Drill ‘n Kill, Sage on a Stage
+- Numeracy, The “New” Math of the 80s
+   - [Teachley](https://vialogues.com/vialogues/play/6667)
+   - [Nature/ Math Strategies and Brain Development](http://www.nature.com/news/developing-brains-switch-maths-strategies-1.15724)
 - The Common Core, Higher-order Literacy, 21st C Skills 
    - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
    - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
    - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
-- Close Reading, Balanced Literacy, The “New” Math of the 80s, Big History
+- Close Reading, Balanced Literacy, Big History
    - [Shared Inquiry Handbook](http://www.greatbooks.org/wp-content/uploads/2014/12/Shared-Inquiry-Handbook.pdf)
 - Self-directed inquiry, experiential, project-based learning.
 - Flip: Does flip and video change what should go into the lecture?
