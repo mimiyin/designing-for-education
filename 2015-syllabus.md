@@ -99,7 +99,7 @@ Syllabus
    - Document. We will workshop 4 in class.
 
 ### Week 4
--<b>Guests</b> [Newsela](https://newsela.com/)
+- <b>Guests</b> [Newsela](https://newsela.com/)
    - Try reading one of their articles at each level. What do you think?
    - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
 
@@ -111,8 +111,9 @@ Syllabus
 Possible Topics:
 - Brain Science & How we learn.
    - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
-   - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
+   - [NPR/ Memory and Time](http://www.radiolab.org/story/94840-letting-go/)
    - [NPR/ Erasing Memories to Treat PTSD](http://www.npr.org/blogs/health/2012/01/16/144672190/ending-nightmares-caused-by-ptsd)
+   - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
 - Early Childhood Development
    - [Roots of Empathy](http://www.rootsofempathy.org/) | [Video](https://www.youtube.com/watch?v=fvelYfCZCZs)
    - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
