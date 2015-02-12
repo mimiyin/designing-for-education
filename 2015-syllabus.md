@@ -83,7 +83,6 @@ Syllabus
 - <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
 - <b>Discuss</b> readings vis-a-vis post-mortems
 - <b>Discuss</b> annotation experience
-
 - [The Art of Teaching & The Science of Learning: Approaches to Pedagogy](https://github.com/mimiyin/designing-for-education/wiki/Approaches-to-Pedagogy)
 
 <b> Week 3 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
