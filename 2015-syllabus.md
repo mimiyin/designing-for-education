@@ -65,6 +65,8 @@ Syllabus
 ### Week 2
 - Prep questions
 - <b>Guests</b> Don Miller + Raquel Cardona from NYC DOE's [Software Engineering Pilot](http://sepnyc.org/)
+- <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
+
 
 ##### <b>Discuss</b> Education: What constitutes an education? Why do we need it?
 - [Maslow's Hierarchy of Needs](http://en.wikipedia.org/wiki/Maslow%27s_hierarchy_of_needs)
@@ -81,8 +83,8 @@ Syllabus
 - <b>Guests</b> Teachers from [NYU Poly - CrEST](http://crest.poly.edu/) will come and teach [section 1.2 of this lesson plan](http://crest.poly.edu/?page_id=12)
 - <b>Discuss</b> readings vis-a-vis post-mortems
 - <b>Discuss</b> annotation experience
-- <b>Model</b> Why is the sky blue?
-- <b>Model</b> Study aid based on brain science.
+
+- [The Art of Teaching & The Science of Learning: Approaches to Pedagogy](https://github.com/mimiyin/designing-for-education/wiki/Approaches-to-Pedagogy)
 
 <b> Week 3 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
    - How do you define the problem?
@@ -90,76 +92,26 @@ Syllabus
    - What do you need to know about your interest area to design for it?
    - What do you need to know about your target user to design for them?
    
-<b> Week 3 Design Practice:</b> Storyboard a workflow.
-   - Storyboard a workflow that incorporates the pedagogical approach you chose to 
-   - Your storyboard should teach something specific.
-      - e.g. STEM: Explain division by fractions.
-      - e.g. Reading: [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
-   - You *can* incorporate technology in your lesson, but don't worry too much about it.
-   - Document. We will workshop 4 in class.
+<b> Week 3 Design Practice:</b> Design an Experiment + Storyboard the workflow.
+   - Experiment with 3 different ways to accomplish the workflow.
+   - Design an evaluation rubric for the experiment.
+   - Your workflow should "teach" something specific.
+      - e.g. Study for exam on cell reproduction. 
+      - e.g. Learn about division by fractions.
+      - e.g. Discuss [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
+   - Storyboard the "best" workflow that incorporates the pedagogical approach you chose.
+   - Demo in class.
+   - Document to present in class. We will workshop 4 in class.
 
 ### Week 4
 - <b>Guests</b> [Newsela](https://newsela.com/)
    - Try reading one of their articles at each level. What do you think?
    - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
 
-### Topics for Weeks 2 + 3 + 4 + 5(?)
-
-#### Pedagogy: The Art of Teaching & The Science of Learning
-- <b>Read</b> Elizabeth Green: Building a Better Teacher - Prologue, Chapters 1-4, 8-10, Epilogue
-
-Possible Topics:
-- Brain Science & How we learn.
-   - <b>Listen</b> [NPR/ The Science of Smart](http://www.americanradioworks.org/documentaries/the-science-of-smart/)
-   - [NPR/ Memory and Time](http://www.radiolab.org/story/94840-letting-go/)
-   - [NPR/ Erasing Memories to Treat PTSD](http://www.npr.org/blogs/health/2012/01/16/144672190/ending-nightmares-caused-by-ptsd)
-   - [Can Machine Learning Teach Us Something about Human Learning?](http://nautil.us/issue/6/secret-codes/teaching-me-softly)
-- Early Childhood Development
-   - [Roots of Empathy](http://www.rootsofempathy.org/) | [Video](https://www.youtube.com/watch?v=fvelYfCZCZs)
-   - [Live Science/ Babies aren't tone-deaf](http://www.livescience.com/7663-babies-rock-roll.html)
-   - [NPR/ Music and Pre-K](http://www.wnyc.org/story/pre-k-teachers-learn-techniques-reach-kids-through-music/)
-   - [Etre et Avoir](https://www.youtube.com/watch?v=d79sc72IN3s) - Click CC for subtitles.
-   - [Bringing up Bebe](http://www.amazon.com/Bringing-Up-B%C3%A9b%C3%A9-Discovers-Parenting-ebook/dp/B005I4JG80)
-   - [Preschool in 3 Cultures](http://www.amazon.com/dp/0300048122/)
-- Drill ‘n Kill, Sage on a Stage
-- Numeracy, The “New” Math of the 80s
-   - [Teachley](https://vialogues.com/vialogues/play/6667)
-   - [Nature/ Math Strategies and Brain Development](http://www.nature.com/news/developing-brains-switch-maths-strategies-1.15724)
-- The Common Core, Higher-order Literacy, 21st C Skills 
-   - <b>Listen</b> [NPR/ Greater Expectations: The Challenge of Common Core](http://www.americanradioworks.org/documentaries/greater-expectations/)
-   - [What is higher-order literacy?](http://web.archive.org/web/20090201060439/http://proliteracy.org/NetCommunity/Page.aspx?pid=370&srcid=191)
-   - [WSJ/ Bosses Seek Critical Thinking, but What is That?](http://www.wsj.com/articles/bosses-seek-critical-thinking-but-what-is-that-1413923730)
-- Close Reading, Balanced Literacy, Big History
-   - [Shared Inquiry Handbook](http://www.greatbooks.org/wp-content/uploads/2014/12/Shared-Inquiry-Handbook.pdf)
-- Self-directed inquiry, experiential, project-based learning.
-- Flip: Does flip and video change what should go into the lecture?
-   - [Rethinking the point of flip.](http://chronicle.com/blognetwork/castingoutnines/2015/01/22/three-evolving-thoughts-about-flipped-learning/) 
-- Adaptive Learning: Does it work for everything?
-- Gamification
-   - [James Gee on Games and Literacy](http://www.americanradioworks.org/video-games-new-literacy-for-a-complex-world/)
-- Discipline
-   - Chapters 5-7 of Building a Better Teacher by Elizabeth Green
-- Vocational 
-   - <b>Read</b> Chapter 23 of On Democracy and Education
-   - <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
-   - <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
-   - <b>Read</b> [Atlantic/ Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)
-   - <b>Read</b> [NYT/ Where Factory Apprenticeship Is Latest Model From Germany](http://www.nytimes.com/2013/12/01/business/where-factory-apprenticeship-is-latest-model-from-germany.html?pagewanted=all)
-- Programming: Vocational or core curriculum?
-   - [Coding the Curriculum](http://mashable.com/2013/09/22/coding-curriculum/)
-   
 <b>Week 4 Design Practive:<b> Know your medium. What is tech good at?
    - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
    - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
    - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
-
-<b>Week 4 Design Practice:</b> Evaluating existing products.
-- Select 3 products that claim to implement the technique you researched.
-- Try using them. Compare and contrast them.
-- Are any of them an improvement on what you did without tech?
-- Are there any unfortunate side effects?
-- Pick the best one and redesign your lesson around this product. 
-- Document, I will pick 4 for class.
 
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
