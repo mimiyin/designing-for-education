@@ -85,13 +85,13 @@ Syllabus
 - <b>Discuss</b> annotation experience
 - [The Art of Teaching & The Science of Learning: Approaches to Pedagogy](https://github.com/mimiyin/designing-for-education/wiki/Approaches-to-Pedagogy)
 
-<b> Week 3 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
+<b> Week 3 + 4 Design Practice:</b> Framing research questions. Framing the problem. Finding your target user.
    - How do you define the problem?
    - How do you find your target user?
    - What do you need to know about your interest area to design for it?
    - What do you need to know about your target user to design for them?
    
-<b> Week 3 Design Practice:</b> Design an Experiment + Storyboard the workflow.
+<b> Week 3 + 4 Design Practice:</b> Design an Experiment + Storyboard the workflow.
    - Experiment with 3 different ways to accomplish the workflow.
    - Design an evaluation rubric for the experiment.
    - Your workflow should "teach" something specific.
@@ -99,18 +99,11 @@ Syllabus
       - e.g. Learn about division by fractions.
       - e.g. Discuss [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
    - Storyboard the "best" workflow that incorporates the pedagogical approach you chose.
-   - Demo in class.
-   - Document to present in class. We will workshop 4 in class.
 
 ### Week 4
 - <b>Guests</b> [Newsela](https://newsela.com/)
    - Try reading one of their articles at each level. What do you think?
    - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
-
-<b>Week 4 Design Practive:<b> Know your medium. What is tech good at?
-   - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
-   - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
-   - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
@@ -134,6 +127,11 @@ Syllabus
 - ESL and Learning Challenges
 - Willpower as a finite resource
 - The Marshmallow Test
+
+<b>Week 5 Design Practice:<b> Know your medium. What is tech good at?
+   - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
+   - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
+   - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
 <b>Week 5 Design Practice:</b> Brainstorming
 - What are different ways to “prime” your confidence?
