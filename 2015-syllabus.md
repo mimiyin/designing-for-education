@@ -105,13 +105,26 @@ Syllabus
    - Try reading one of their articles at each level. What do you think?
    - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
 - [Refine Experiment](https://github.com/mimiyin/designing-for-education/wiki/Guidelines:-Approaches-to-Pedagogy-Experiment)
+   - [Group Brainstorm](https://docs.google.com/a/nyu.edu/spreadsheets/d/1q2296qm2Ts84G4mEiZU_oGgMUu9wd71t538Wh7-FYEk/edit?usp=sharing)
 - [Theory of Action](https://github.com/mimiyin/designing-for-education/wiki/Theory-of-Action)
+- Why cite research?
+ 
+### Week 5
+- Present experiment research results + Theory of Action
+- Revisit "The Map"
+-<b>Week 5 Design Practice:<b> User Workflow Storyboard
+-<b>Week 5 Design Practice:<b> User Interviews
+   - What do they do today?
+   - What are their painpoints?
+   - Any existing solutions? What's preventing them from using existing solutions?
+- <b>Week 5 Design Practice:</b> Self-experimentation
+   - Try a willpower app for a week. What worked, what didn't, what's missing, what's worth stealing?
 
-### Weeks 5+6
-- <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+### Weeks 6
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
 - <b>Listen</b> [NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
-- <b>Read</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
+- <b>Optional</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
+- <b>Optional</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
 - <b>Optional</b> [Willpower by Roy F. Baumeister](http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231)
 - <b>Optional</b> [Scarcity by by Sendhil Mullainathan](http://www.amazon.com/Scarcity-Science-Having-Defines-Lives/dp/125005611X/ref=asap_bc?ie=UTF8)
 - <b>Optional</b> [Mountain People by Colin M. Turnbull](http://www.amazon.com/Mountain-People-Colin-M-Turnbull/dp/0671640984/)
@@ -130,20 +143,17 @@ Syllabus
 - Willpower as a finite resource
 - The Marshmallow Test
 
-<b>Week 5 Design Practice:<b> Know your medium. What is tech good at?
+<b>Week 6 Design Practice:<b> Know your medium. What is tech good at?
    - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
    - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
    - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
-<b>Week 5 Design Practice:</b> Brainstorming
+<b>Week 6 Design Practice:</b> Brainstorming
 - What are different ways to “prime” your confidence?
 - What are different ways to stretch willpower?
 - How can a syllabus be restructured to make it harder to fall behind?
 
-<b>Week 5 Design Practice:</b> Self-experimentation
-- Try a willpower app for a week. Document your experience.
-
-<b>Week 5+6 Design Practice:</b> Iteration + Rapid prototyping.
+<b>Week 6 Design Practice:</b> Iteration + Rapid prototyping.
 - Re-design with non-academic factors in mind.
 
 ### Week 7
