@@ -20,7 +20,7 @@ Schedule / Contact
 - [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
 - [Join Mailing list](https://groups.google.com/a/itp.nyu.edu/forum/?hl=en#!forum/dfe-spring2015)
 
-Syllabus
+Syllabusred
 --------
 
 ### Week 1
@@ -154,7 +154,8 @@ Syllabus
 - How can a syllabus be restructured to make it harder to fall behind?
 
 <b>Week 6 Design Practice:</b> Iteration + Rapid prototyping.
-- Re-design with non-academic factors in mind.
+   - Pick a non-academic factor to address.
+   - Re-design your workflow to address it.
 
 ### Week 7
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
@@ -175,7 +176,7 @@ Syllabus
 - Assessing teachers.
 
 <b>Week 7 Design Practice:</b> Iteration + Rapid Prototyping
-- Redesign and bake assessment into the learning process.
+- Redesign your workflow to bake assessment into the learning process.
 
 #### [In-Class] Re-imagine assessment for reading or writing.
 - We will be collaborating with English teachers from Pace University's Graduate School of Education program.
