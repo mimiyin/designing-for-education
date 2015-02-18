@@ -112,8 +112,8 @@ Syllabusred
 ### Week 5
 - Present experiment research results + Theory of Action
 - Revisit "The Map"
--<b>Week 5 Design Practice:<b> User Workflow Storyboard
--<b>Week 5 Design Practice:<b> User Interviews
+- <b>Week 5 Design Practice:</b> User Workflow Storyboard
+- <b>Week 5 Design Practice:</b> User Interviews
    - What do they do today?
    - What are their painpoints?
    - Any existing solutions? What's preventing them from using existing solutions?
