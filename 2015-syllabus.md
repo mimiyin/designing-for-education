@@ -104,6 +104,8 @@ Syllabus
 - <b>Guests</b> [Newsela](https://newsela.com/)
    - Try reading one of their articles at each level. What do you think?
    - [NPR/ Reading: The Struggle over Struggle](http://www.npr.org/blogs/ed/2014/11/13/359331057/common-core-reading-the-struggle-over-struggle)
+- [Refine Experiment](https://github.com/mimiyin/designing-for-education/wiki/Guidelines:-Approaches-to-Pedagogy-Experiment)
+- [Theory of Action](https://github.com/mimiyin/designing-for-education/wiki/Theory-of-Action)
 
 ### Weeks 5+6
 - <b>Read</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
