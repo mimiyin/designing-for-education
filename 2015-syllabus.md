@@ -91,14 +91,7 @@ Syllabusred
    - What do you need to know about your interest area to design for it?
    - What do you need to know about your target user to design for them?
    
-<b> Week 3 + 4 Design Practice:</b> Design an Experiment + Storyboard the workflow.
-   - Experiment with 3 different ways to accomplish the workflow.
-   - Design an evaluation rubric for the experiment.
-   - Your workflow should "teach" something specific.
-      - e.g. Study for exam on cell reproduction. 
-      - e.g. Learn about division by fractions.
-      - e.g. Discuss [The New Colossus by Emma Lazarus](http://www.poetryfoundation.org/poem/175887) 
-   - Storyboard the "best" workflow that incorporates the pedagogical approach you chose.
+<b> Week 3 + 4 Design Practice:</b> Design an Experiment.
 
 ### Week 4
 - <b>Guests</b> [Newsela](https://newsela.com/)
@@ -110,6 +103,7 @@ Syllabusred
 - Why cite research?
  
 ### Week 5
+- <b>Guests</b> [Robin Reid + Eileen Cannon from Amplify](http://www.amplify.com/)
 - Present experiment research results + Theory of Action
 - Revisit "The Map"
 - <b>Week 5 Design Practice:</b> User Workflow Storyboard
