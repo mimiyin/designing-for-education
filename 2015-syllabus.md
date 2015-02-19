@@ -224,8 +224,9 @@ Syllabusred
 - Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
 
 ### Week 9
-- <b>Read</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
 - <b>Guest</b> [Ben Stern from Teach Boost](https://teachboost.com/)
+- <b>Read</b> [New Yorker/ Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas)
+- <b>Optional</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
 
 #### IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
