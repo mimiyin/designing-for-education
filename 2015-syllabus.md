@@ -238,6 +238,7 @@ Syllabusred
 
 ### Weeks 10 + 11 - Workshopping Final Project
 - [Requirements](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
+
 ### Week 12 - Final Project Presentations
 
 Reading to keep abreast of:
