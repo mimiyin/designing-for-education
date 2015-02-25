@@ -104,12 +104,11 @@ Syllabusred
  
 ### Week 5
 - <b>Guests</b> [Eileen Cannon from Amplify](http://www.amplify.com/)
-- In-class experiments
-- Workshop your experiments
- 
+- Run in-class experiments: Aankit, Diego
+- Workshop your experiments.
 - <b>Week 5 Design Practice:</b> Develop your [Theory of Action](https://github.com/mimiyin/designing-for-education/wiki/Theory-of-Action)
 - <b>Week 5 Design Practice:</b> Self-experimentation
-   - Try a willpower app for a week. What worked, what didn't, what's missing, what's worth stealing?
+   - Pick a willpower app for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 ### Weeks 6
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
