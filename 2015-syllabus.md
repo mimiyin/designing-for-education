@@ -103,20 +103,19 @@ Syllabusred
 - Why cite research?
  
 ### Week 5
-- <b>Guests</b> [Robin Reid + Eileen Cannon from Amplify](http://www.amplify.com/)
-- Present experiment research results + Theory of Action
-- Revisit "The Map"
-- <b>Week 5 Design Practice:</b> User Workflow Storyboard
-- <b>Week 5 Design Practice:</b> User Interviews
-   - What do they do today?
-   - What are their painpoints?
-   - Any existing solutions? What's preventing them from using existing solutions?
+- <b>Guests</b> [Eileen Cannon from Amplify](http://www.amplify.com/)
+- In-class experiments
+- Workshop your experiments
+ 
+- <b>Week 5 Design Practice:</b> Develop your [Theory of Action](https://github.com/mimiyin/designing-for-education/wiki/Theory-of-Action)
 - <b>Week 5 Design Practice:</b> Self-experimentation
    - Try a willpower app for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 ### Weeks 6
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
 - <b>Listen</b> [NPR/ Batman: Can a shift in expectations make a blind man see?](http://www.thisamericanlife.org/radio-archives/episode/544/batman)
+- <b>Read</b> [NYT/ Review of Willpower by John Tierney and Roy F. Baumeister](http://www.nytimes.com/2011/09/04/books/review/willpower-by-roy-f-baumeister-and-john-tierney-book-review.html?pagewanted=all&_r=0)
+- <b>Read</b> [Excerpt from "The Science of Scarcity" by Sendhil Mullainathan](http://sc.arcity.co/)
 - <b>Optional</b> Elizabeth Green: Building a Better Teacher - Chapters 5-7
 - <b>Optional</b> [NYT/ What if age is just a mindset?](http://www.nytimes.com/2014/10/26/magazine/what-if-age-is-nothing-but-a-mind-set.html?hp&action=click&pgtype=Homepage&version=HpSumSmallMediaHigh&module=second-column-region&region=top-news&WT.nav=top-news)
 - <b>Optional</b> [Willpower by Roy F. Baumeister](http://www.amazon.com/Willpower-Rediscovering-Greatest-Human-Strength/dp/0143122231)
@@ -125,6 +124,9 @@ Syllabusred
 - <b>Optional</b> [The Marshmallow Test by Walter Mischel](http://www.amazon.com/The-Marshmallow-Test-Mastering-Self-Control/dp/0316230871)
 
 #### Non-Academic Factors in Educational Success
+- Confidence and [Grit: How do we measure it?](http://www.edutopia.org/blog/true-grit-measure-teach-success-vicki-davis)
+- The Marshmallow Test + Willpower as a finite resource
+- The Science of Scarcity
 - Culture and Economics
    - [NPR/ When Sports Rule and School Suffers](http://www.wnyc.org/story/eyes-goal-when-sports-rule-and-school-suffers/)
    - [The Atlantic/ The Case Against HS Sports](http://www.theatlantic.com/magazine/archive/2013/10/the-case-against-high-school-sports/309447/)
@@ -132,24 +134,17 @@ Syllabusred
 - Segretation: Race, Gender, Gifted & Talented, Vocational Tracking
    - [The Atlantic/ Segregation Now...](http://www.theatlantic.com/features/archive/2014/04/segregation-now/359813/)
    - [NYT/ Sex-segregated classrooms.](http://www.nytimes.com/2014/12/01/education/single-sex-education-public-schools-separate-boys-and-girls.html)
-- Psychology and Behavioral Economics (e.g. Grit, Confidence, Priming)
 - ESL and Learning Challenges
-- Willpower as a finite resource
-- The Marshmallow Test
 
 <b>Week 6 Design Practice:<b> Know your medium. What is tech good at?
    - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
    - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
    - [NYT/ Toddlers and E-readers](http://www.nytimes.com/2014/10/12/us/is-e-reading-to-your-toddler-story-time-or-simply-screen-time.html)
 
-<b>Week 6 Design Practice:</b> Brainstorming
-- What are different ways to “prime” your confidence?
-- What are different ways to stretch willpower?
-- How can a syllabus be restructured to make it harder to fall behind?
-
+<b>Week 6 Design Practice:</b> Design as Scaffolding
 <b>Week 6 Design Practice:</b> Iteration + Rapid prototyping.
-   - Pick a non-academic factor to address.
-   - Re-design your workflow to address it.
+   - Re-design your workflow.
+   - Incorporate your learnings from your self-experimentation with a motivation app.
 
 ### Week 7
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
