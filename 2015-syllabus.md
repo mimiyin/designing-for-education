@@ -142,6 +142,7 @@ Syllabusred
 
 <b>Week 6 Design Practice:</b> Design as Scaffolding
    - [Edward Tufte on Powerpoint + The "What-Went-Wrong" Report for The Columbia Space Shuttle ](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)
+
 <b>Week 6 Design Practice:</b> Iteration + Rapid prototyping.
    - Re-design your workflow.
    - Incorporate your learnings from your self-experimentation with a motivation app.
