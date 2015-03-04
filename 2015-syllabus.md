@@ -120,18 +120,6 @@ Syllabusred
 - <b>Optional</b> [Mountain People by Colin M. Turnbull](http://www.amazon.com/Mountain-People-Colin-M-Turnbull/dp/0671640984/)
 - <b>Optional</b> [The Marshmallow Test by Walter Mischel](http://www.amazon.com/The-Marshmallow-Test-Mastering-Self-Control/dp/0316230871)
  
-- Positive Feedback Loops
-   - Self-fulfilling Prophecies + Falling farther and farther behind. 
-   - Checkers + Beer Pong versus [Settlers](http://press.etc.cmu.edu/content/how-settlers-catan-created-american-boardgame-revolution-ian-schreiber) + MarioKart
- - What are your strategies for grit?
-
-<b>Week 5 Design Practice:</b> Design Affordances To Influence Behavior
-   - Brainstorm affordance(s) for each of the behaviors you identified in your Theory of Action.
-   - Look at existing products (digital/analog) for inspiration.
-   
-<b>Week 6 Design Practice:</b> Self-experimentation
-   - Pick a willpower app and try it for a week. What worked, what didn't, what's missing, what's worth stealing?
-
 #### Non-Academic Factors in Educational Success
 - Confidence and [Grit: How do we measure it?](http://www.edutopia.org/blog/true-grit-measure-teach-success-vicki-davis)
 - The Marshmallow Test + Willpower as a finite resource
@@ -145,6 +133,12 @@ Syllabusred
    - [NYT/ Sex-segregated classrooms.](http://www.nytimes.com/2014/12/01/education/single-sex-education-public-schools-separate-boys-and-girls.html)
 - ESL and Learning Challenges
 
+#### In-class Topics
+- Positive Feedback Loops
+   - Self-fulfilling Prophecies + Falling farther and farther behind. 
+   - Checkers + Beer Pong versus [Settlers](http://press.etc.cmu.edu/content/how-settlers-catan-created-american-boardgame-revolution-ian-schreiber) + MarioKart
+ - What are your strategies for grit?
+
 <b>Week 6 Design Practice:<b> Know your medium. What is tech good at?
    - [NYT/ A Stroller With a View](http://lens.blogs.nytimes.com/2015/01/23/a-toddlers-view-of-new-york-city/)
    - [Scientific American/ The Science of Paper v. Screen](http://www.scientificamerican.com/article/reading-paper-screens/)
@@ -153,9 +147,12 @@ Syllabusred
 <b>Week 6 Design Practice:</b> Design as Scaffolding
    - [Edward Tufte on Powerpoint + The "What-Went-Wrong" Report for The Columbia Space Shuttle ](http://www.edwardtufte.com/bboard/q-and-a-fetch-msg?msg_id=0001yB&topic_id=1)
 
-<b>Week 6 Design Practice:</b> Iteration + Rapid prototyping.
-   - Re-design your workflow.
-   - Incorporate your learnings from your self-experimentation with a motivation app.
+<b>Week 6 Design Practice:</b> Design Affordances To Influence Behavior
+   - Brainstorm affordance(s) for each of the behaviors you identified in your Theory of Action.
+   - Look at existing products (digital/analog) for inspiration.
+   
+<b>Week 6 Design Practice:</b> Self-experimentation
+   - Pick a willpower app and try it for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 ### Week 7
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
