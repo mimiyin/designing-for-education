@@ -107,8 +107,6 @@ Syllabusred
 - Run in-class experiments: Aankit, Diego
 - Workshop your experiments.
 - <b>Week 5 Design Practice:</b> Develop your [Theory of Action](https://github.com/mimiyin/designing-for-education/wiki/Theory-of-Action)
-- <b>Week 5 Design Practice:</b> Self-experimentation
-   - Pick a willpower app for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 ### Weeks 6
 - <b>Read</b> [NYT/ Who Get's To Graduate?](http://www.nytimes.com/2014/05/18/magazine/who-gets-to-graduate.html)
@@ -121,6 +119,18 @@ Syllabusred
 - <b>Optional</b> [Scarcity by by Sendhil Mullainathan](http://www.amazon.com/Scarcity-Science-Having-Defines-Lives/dp/125005611X/ref=asap_bc?ie=UTF8)
 - <b>Optional</b> [Mountain People by Colin M. Turnbull](http://www.amazon.com/Mountain-People-Colin-M-Turnbull/dp/0671640984/)
 - <b>Optional</b> [The Marshmallow Test by Walter Mischel](http://www.amazon.com/The-Marshmallow-Test-Mastering-Self-Control/dp/0316230871)
+ 
+- Positive Feedback Loops
+   - Self-fulfilling Prophecies + Falling farther and farther behind. 
+   - Checkers + Beer Pong versus [Settlers](http://press.etc.cmu.edu/content/how-settlers-catan-created-american-boardgame-revolution-ian-schreiber) + MarioKart
+ - What are your strategies for grit?
+
+<b>Week 5 Design Practice:</b> Design Affordances To Influence Behavior
+   - Brainstorm affordance(s) for each of the behaviors you identified in your Theory of Action.
+   - Look at existing products (digital/analog) for inspiration.
+   
+<b>Week 6 Design Practice:</b> Self-experimentation
+   - Pick a willpower app and try it for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 #### Non-Academic Factors in Educational Success
 - Confidence and [Grit: How do we measure it?](http://www.edutopia.org/blog/true-grit-measure-teach-success-vicki-davis)
