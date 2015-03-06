@@ -155,9 +155,9 @@ Syllabusred
    - Pick a willpower app and try it for a week. What worked, what didn't, what's missing, what's worth stealing?
 
 ### Week 7
+- <b>Read</b> [NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
 - <b>Read</b> [NYT/ Why Flunking Exams is Actually a Good Thing](http://www.nytimes.com/2014/09/07/magazine/why-flunking-exams-is-actually-a-good-thing.html)
 - <b>Read</b> [NPR/ The Importance of Low-Stakes Student Feedback](http://blogs.kqed.org/mindshift/2014/01/the-importance-of-low-stakes-student-feedback/) 
-- <b>Read</b> [NYT/ The Story Behind the SAT Overhaul](http://www.nytimes.com/2014/03/09/magazine/the-story-behind-the-sat-overhaul.html)
 
 #### Assessment and Admissions
 - What’s being measured today? What should we be measuring?
