@@ -172,17 +172,14 @@ Syllabusred
 - The challenges of scaling writing assessment.
 - Assessing teachers.
 
-<b>Week 7 Design Practice:</b> Iteration + Rapid Prototyping
+<b>Design Practice</b> Paper Prototyping
+
+<b>Design Practice</b> Iteration
 - Redesign your workflow to bake assessment into the learning process.
 
-#### [In-Class] Re-imagine assessment for reading or writing.
-- We will be collaborating with English teachers from Pace University's Graduate School of Education program.
-- http://tomliamlynch.org/the-fall-of-septimus/
-- [Reading Comprehension Rubrics](https://www.google.com/search?q=writing+assessment+rubrics&espv=2&biw=1118&bih=1018&tbm=isch&tbo=u&source=univ&sa=X&ei=YwHRVJTBJsyrNsmbgbgD&ved=0CB0QsAQ&dpr=1.8#tbm=isch&q=reading+comprehension+assessment+rubrics&imgdii=_&imgrc=dpZs2zWHCOAmKM%253A%3BtsqJaR8Gj2euwM%3Bhttp%253A%252F%252Fmaryidefalco.com%252Freading%252520site%252520reconnected%252Freading__language_arts_primary_teachers_2%252F5.Assessment_%252526_Rubrics_Reading_files%252FRubrics%252520for%252520retelling.jpg%3Bhttp%253A%252F%252Fmaryidefalco.com%252Freading%252520site%252520reconnected%252Freading__language_arts_primary_teachers_2%252F5.Assessment_%2526_Rubrics_Reading.html%3B777%3B866)
-- [Writing Assessment Rubrics](https://www.google.com/search?q=writing+assessment+rubrics&espv=2&biw=1118&bih=1018&tbm=isch&tbo=u&source=univ&sa=X&ei=YwHRVJTBJsyrNsmbgbgD&ved=0CB0QsAQ&dpr=1.8)
-
-<b>Design Practice:</b> Iteration
-- Revisit your design and turn it into an assessment tool.
+<b>Design Practice:</b> User-Testing with Paper-Prototype
+- At least 3 design alternatives
+- Document learnings from user test
 
 ### Week 8 The Economics/Future of Education - Mar 26
 - <b>Guest</b> [Nick Parlante: Coursera, Stanford/EdX, CS101](https://www.google.com/webhp?#q=nick+parlante)
@@ -190,11 +187,18 @@ Syllabusred
    - <b>Register + Watch</b> [Week 2 Lectures on For Loops](http://cs101-class.org/)
    - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
+
+#### What would John Dewey Think of DIY Learning?
+- <b>Read</b> [NPR/ The End of College](http://www.npr.org/blogs/ed/2015/03/03/390167950/prepare-for-the-end-of-college-heres-what-free-higher-ed-looks-like)
+- <b>Read</b> [Inside HigherEd/ Udacity + San Jose](https://www.insidehighered.com/news/2013/09/12/after-weeks-delays-san-jose-state-u-releases-research-report-online-courses)
+- <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
+
+#### Additional Resources
 - <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
+- <b>Read<b> [NYT/ Getting credit for DIY Learning](http://www.nytimes.com/2015/03/08/upshot/true-reform-in-higher-education-when-online-degrees-are-seen-as-official.html?abt=0002&abg=0)
 - <b>Read</b> Chapter 23 of On Democracy and Education
 - <b>Read</b> [Is Career-Prep the Point of School?](http://www.theatlantic.com/education/archive/2015/02/school-is-about-more-than-training-kids-to-be-adults/385475/)
-- <b>Listen</b> [NPR/ Tracking and Vocational Education - Intro](http://www.americanradioworks.org/tracking-and-vocational-ed/)
-- <b>Listen</b> [NPR/ Ready for Work - Intro](http://www.americanradioworks.org/documentaries/ready-to-work/)
+- <b>Listen</b> [NPR/ Experiential Learning: Taking Care of Baby](http://www.thisamericanlife.org/radio-archives/episode/549/amateur-hour?act=2#play)
 - <b>Read</b> [Atlantic/ Making it in America](http://www.theatlantic.com/magazine/archive/2012/01/making-it-in-america/308844/)
 - <b>Read</b> [NYT/ Where Factory Apprenticeship Is Latest Model From Germany](http://www.nytimes.com/2013/12/01/business/where-factory-apprenticeship-is-latest-model-from-germany.html?pagewanted=all)
 
@@ -213,7 +217,7 @@ Syllabusred
    - Labor (e.g. Adjuncts and grad students)
    - Scale (e.g. MOOCs and Adaptive Learning)
 - Alternate Paths to Education
-   - Minerva, the $30K elite education
+   - [Minerva, the $30K elite education](http://www.theatlantic.com/features/archive/2014/08/the-future-of-college/375071/)
    - $1K college degree (e.g. Straighterline, Kepler)
    - Post-graduate education. (e.g. Hackerspaces, certifications.)
    - For-profit degree programs. (e.g. Phoenix, Kaplan)
