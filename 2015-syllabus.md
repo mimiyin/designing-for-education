@@ -180,13 +180,13 @@ Syllabus
 - Redesign your workflow to bake assessment into the learning process.
 
 <b>Design Practice:</b> User-Testing with Paper-Prototype
-- At least 3 design alternatives
+- Test at least 3 alternatives
 - Document learnings from user test
 
 ### Week 8 The Economics/Future of Education - Mar 26
 - <b>Guest</b> [Nick Parlante: Coursera, Stanford/EdX, CS101](https://www.google.com/webhp?#q=nick+parlante)
    - <b>Provocation</b> [Should we give up on cheating?](http://www.wired.com/2015/02/university-bans-github-homework-changes-mind/)
-   - <b>Register + Watch</b> [Week 2 Lectures on For Loops](http://cs101-class.org/)
+   - <b>Register + Check out</b> [Week 2 Lectures on For Loops](http://cs101-class.org/)
    - <b>Try</b> [Week 2 Exercses - Images 3, 4, 5](http://web.stanford.edu/class/cs101/index.html)
 - <b>Guest</b> Ben Samuels-Kalow: [Economics/Technology Teacher @Lab School of Finance and Technology in the Bronx, SEP Teacher](http://sepnyc.org/2014/03/ask-a-sep-teacher-interview-with-ben-samuels-kalow/)
 
@@ -231,7 +231,7 @@ Syllabus
 - Focus: Teacher, Student, Administrator
 - Demographics
 - Level of education
-- Starting point: Pedagogy, Behavior Psych, Assessment, Logistics/Administration
+- Starting point: Pedagogy, Behavior Psych, Assessment, Teacher Ed, DIY, Vocational, Logistics/Administration
 
 ### Week 9
 - <b>Guest</b> [Ben Stern from Teach Boost](https://teachboost.com/)
