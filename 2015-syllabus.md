@@ -217,6 +217,7 @@ Syllabusred
    - Labor (e.g. Adjuncts and grad students)
    - Scale (e.g. MOOCs and Adaptive Learning)
 - Alternate Paths to Education
+   - [Atlantic/ The downfall of Sweet Briar College](http://www.theatlantic.com/education/archive/2015/03/the-unfortunate-fate-of-sweet-briars-professors/387376/)
    - [Minerva, the $30K elite education](http://www.theatlantic.com/features/archive/2014/08/the-future-of-college/375071/)
    - $1K college degree (e.g. Straighterline, Kepler)
    - Post-graduate education. (e.g. Hackerspaces, certifications.)
