@@ -197,7 +197,7 @@ Syllabus
 
 #### Additional Resources
 - <b>Read</b> Anya Kamenetz: DIY U - Chapters 1-6
-- <b>Read<b> [NYT/ Getting credit for DIY Learning](http://www.nytimes.com/2015/03/08/upshot/true-reform-in-higher-education-when-online-degrees-are-seen-as-official.html?abt=0002&abg=0)
+- <b>Read</b> [NYT/ Getting credit for DIY Learning](http://www.nytimes.com/2015/03/08/upshot/true-reform-in-higher-education-when-online-degrees-are-seen-as-official.html?abt=0002&abg=0)
 - <b>Read</b> Chapter 23 of On Democracy and Education
 - <b>Read</b> [Is Career-Prep the Point of School?](http://www.theatlantic.com/education/archive/2015/02/school-is-about-more-than-training-kids-to-be-adults/385475/)
 - <b>Listen</b> [NPR/ Experiential Learning: Taking Care of Baby](http://www.thisamericanlife.org/radio-archives/episode/549/amateur-hour?act=2#play)
