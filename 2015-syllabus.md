@@ -20,7 +20,7 @@ Schedule / Contact
 - [Office Hours - Room 455](https://itp.nyu.edu/inwiki/Signup/Mimi)
 - [Join Mailing list](https://groups.google.com/a/itp.nyu.edu/forum/?hl=en#!forum/dfe-spring2015)
 
-Syllabusred
+Syllabus
 --------
 
 ### Week 1
@@ -173,6 +173,8 @@ Syllabusred
 - Assessing teachers.
 
 <b>Design Practice</b> Paper Prototyping
+- [Introduction to...](http://www.lynda.com/Web-Prototyping-tutorials/What-paper-prototyping/161093/171561-4.html)
+- [Paper Prototyping + User Testing](http://usabilitygeek.com/paper-prototyping-as-a-usability-testing-technique/)
 
 <b>Design Practice</b> Iteration
 - Redesign your workflow to bake assessment into the learning process.
