@@ -235,7 +235,7 @@ Syllabus
 
 ### Week 9
 - <b>Guest</b> [Ben Stern from Teach Boost](https://teachboost.com/)
-- <b>Read</b> [New Yorker/ Slow Ideas](http://www.newyorker.com/magazine/2013/07/29/slow-ideas)
+- <b>Read</b> [Doug Lemov and Making Good Teachers](http://www.theguardian.com/education/2015/mar/11/revolution-changing-way-your-child-taught)
 - <b>Optional</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
 
 #### IT/Logistics, Adoption/Deployment and Measuring Efficacy
