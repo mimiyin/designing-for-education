@@ -226,16 +226,20 @@ Syllabus
    - Online degree programs.
    - Proficiency-based degree programs. (e.g. College for America, Western Governor's)
 
-#### Thoughts for Final Project
-- Focus: Teacher, Student, Administrator
-- Demographics
-- Level of education
-- Starting point: Pedagogy, Behavior Psych, Assessment, Teacher Ed, DIY, Vocational, Logistics/Administration
+<b>Design Practice</b> Creating a Request-for-Proposal / Design Brief
+   - Target Audience
+      - Teacher, Student, Administrator
+      - Subjects
+      - (Grade) Level
+   - Starting point: Pedagogy, Behavior Psych, Assessment, Teacher Ed, DIY, Vocational, Logistics/Administration
+   - Scenarios + Workflows
+   - Must-have versus Nice-to-have
+   - Business Logic
 
 ### Week 9
 - <b>Guest</b> [Ben Stern from Teach Boost](https://teachboost.com/)
 - <b>Read</b> [Doug Lemov and Making Good Teachers](http://www.theguardian.com/education/2015/mar/11/revolution-changing-way-your-child-taught)
-- <b>Optional</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
+- <b>Read</b> [New Yorker/ Schooled](http://www.newyorker.com/magazine/2014/05/19/schooled)
 
 #### IT/Logistics, Adoption/Deployment and Measuring Efficacy
 - Connectivity
