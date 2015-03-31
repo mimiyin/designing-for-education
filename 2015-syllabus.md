@@ -252,8 +252,16 @@ Syllabus
 
 <b>Design Practice</b> Interviewing + Storyboarding
 
-### Weeks 10 + 11 - Workshopping Final Project
+### Weeks 10 Workshopping Final Project
 - [Requirements](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
+
+- <b>Read</b> [What Does Your Credit-Card Company Know About You?](http://www.nytimes.com/2009/05/17/magazine/17credit-t.html?pagewanted=all)
+- <b>Design Practice</b> Structured Brainstorming: Alternative Methods of Assessment via Behavioral Analytics
+
+### Weeks 11 Workshopping Final Project
+- [Requirements](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
+
+<b>Design Practice</b> Drawing Systems Diagrams
 
 ### Week 12 - Final Project Presentations
 
