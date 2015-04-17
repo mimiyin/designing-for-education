@@ -254,6 +254,7 @@ Syllabus
 
 ### Weeks 10 Workshopping Final Project
 - [Final Project Requirements](https://github.com/mimiyin/designing-for-education/wiki/Requirements-for-Final-Project)
+- <b>Read</b> [Who's cheating?](http://www.nytimes.com/2015/04/06/technology/online-test-takers-feel-anti-cheating-softwares-uneasy-glare.html?_r=0)
 - <b>Read</b> [What Does Your Credit-Card Company Know About You?](http://www.nytimes.com/2009/05/17/magazine/17credit-t.html?pagewanted=all)
 - <b>Design Practice</b> Structured Brainstorming: Alternative Methods of Assessment via Behavioral Analytics
 
